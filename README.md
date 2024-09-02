@@ -4,3 +4,7 @@ Video annotation proof-of-concept
 
 ## Corpus Linguistics - Study 1 - Phase 2 - Elaine
 Image annotation proof-of-concept
+
+### Results
+
+- images/google_cloud/labels/
