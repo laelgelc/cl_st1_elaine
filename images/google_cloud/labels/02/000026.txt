@@ -1,0 +1,85 @@
+description: World
+mid: /m/09nm_
+score: 0.8480125069618225
+topicality: 0.8480125069618225
+
+description: Slope
+mid: /m/078hm
+score: 0.8345534205436707
+topicality: 0.8345534205436707
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8263614177703857
+topicality: 0.8263614177703857
+
+description: Terrestrial plant
+mid: /m/0fbflw
+score: 0.8032589554786682
+topicality: 0.8032589554786682
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.7861695289611816
+topicality: 0.7861695289611816
+
+description: Parallel
+mid: /m/030zfn
+score: 0.765472412109375
+topicality: 0.765472412109375
+
+description: Tree
+mid: /m/07j7r
+score: 0.7308734059333801
+topicality: 0.7308734059333801
+
+description: Natural landscape
+mid: /m/03d28y3
+score: 0.7178276777267456
+topicality: 0.7178276777267456
+
+description: Science
+mid: /m/06mq7
+score: 0.7093541622161865
+topicality: 0.7093541622161865
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.693992555141449
+topicality: 0.693992555141449
+
+description: Event
+mid: /m/081pkj
+score: 0.6555874347686768
+topicality: 0.6555874347686768
+
+description: Urban design
+mid: /m/0d9wj
+score: 0.6345221400260925
+topicality: 0.6345221400260925
+
+description: Astronomical object
+mid: /m/01d9ll
+score: 0.6200813055038452
+topicality: 0.6200813055038452
+
+description: Soil
+mid: /m/09dv7
+score: 0.5888016223907471
+topicality: 0.5888016223907471
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.5856958031654358
+topicality: 0.5856958031654358
+
+description: Plot
+mid: /m/04q347y
+score: 0.5254777073860168
+topicality: 0.5254777073860168
+
+description: Diagram
+mid: /m/02v0m2
+score: 0.5159334540367126
+topicality: 0.5159334540367126
+

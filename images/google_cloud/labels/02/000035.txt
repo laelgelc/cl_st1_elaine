@@ -1,0 +1,75 @@
+description: Organism
+mid: /m/05nnm
+score: 0.8568674921989441
+topicality: 0.8568674921989441
+
+description: Houseplant
+mid: /m/03fp41
+score: 0.8431060910224915
+topicality: 0.8431060910224915
+
+description: Flowerpot
+mid: /m/0fm3zh
+score: 0.799254298210144
+topicality: 0.799254298210144
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7959058880805969
+topicality: 0.7959058880805969
+
+description: Art
+mid: /m/0jjw
+score: 0.7501245737075806
+topicality: 0.7501245737075806
+
+description: Event
+mid: /m/081pkj
+score: 0.6693533658981323
+topicality: 0.6693533658981323
+
+description: Room
+mid: /m/06ht1
+score: 0.6660445928573608
+topicality: 0.6660445928573608
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.6625341176986694
+topicality: 0.6625341176986694
+
+description: Advertising
+mid: /m/011s0
+score: 0.6456440687179565
+topicality: 0.6456440687179565
+
+description: Publication
+mid: /m/01h1dd
+score: 0.5889562964439392
+topicality: 0.5889562964439392
+
+description: Communication Device
+mid: /m/0glmwd6
+score: 0.5679914951324463
+topicality: 0.5679914951324463
+
+description: Collection
+mid: /m/08_4sd
+score: 0.561716616153717
+topicality: 0.561716616153717
+
+description: Multimedia
+mid: /m/0541p
+score: 0.5599708557128906
+topicality: 0.5599708557128906
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5396281480789185
+topicality: 0.5396281480789185
+
+description: Graphics
+mid: /m/021sdg
+score: 0.532250702381134
+topicality: 0.532250702381134
+

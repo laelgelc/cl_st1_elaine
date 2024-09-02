@@ -1,0 +1,125 @@
+description: Output device
+mid: /m/044_87
+score: 0.9168552160263062
+topicality: 0.9168552160263062
+
+description: Gesture
+mid: /m/0244x1
+score: 0.852604866027832
+topicality: 0.852604866027832
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7841588258743286
+topicality: 0.7841588258743286
+
+description: Gadget
+mid: /m/02mf1n
+score: 0.7839969992637634
+topicality: 0.7839969992637634
+
+description: Technology
+mid: /m/07c1v
+score: 0.7558696866035461
+topicality: 0.7558696866035461
+
+description: Chair
+mid: /m/01mzpv
+score: 0.7252599000930786
+topicality: 0.7252599000930786
+
+description: Communication Device
+mid: /m/0glmwd6
+score: 0.7133033871650696
+topicality: 0.7133033871650696
+
+description: Multimedia
+mid: /m/0541p
+score: 0.71059650182724
+topicality: 0.71059650182724
+
+description: Machine
+mid: /m/0dkw5
+score: 0.7059746980667114
+topicality: 0.7059746980667114
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.702740490436554
+topicality: 0.702740490436554
+
+description: Display device
+mid: /m/029zz6
+score: 0.6935617327690125
+topicality: 0.6935617327690125
+
+description: Elbow
+mid: /m/01vm1p
+score: 0.6676013469696045
+topicality: 0.6676013469696045
+
+description: Audio equipment
+mid: /m/01yttv
+score: 0.6312358975410461
+topicality: 0.6312358975410461
+
+description: Brand
+mid: /m/01cd9
+score: 0.6257154941558838
+topicality: 0.6257154941558838
+
+description: Art
+mid: /m/0jjw
+score: 0.6236322522163391
+topicality: 0.6236322522163391
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.6180411577224731
+topicality: 0.6180411577224731
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6129953861236572
+topicality: 0.6129953861236572
+
+description: Animation
+mid: /m/0hcr
+score: 0.6015535593032837
+topicality: 0.6015535593032837
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5662512183189392
+topicality: 0.5662512183189392
+
+description: Computer monitor accessory
+mid: /m/0h8lpd6
+score: 0.5364255905151367
+topicality: 0.5364255905151367
+
+description: 3d modeling
+mid: /m/02p30vv
+score: 0.5231524705886841
+topicality: 0.5231524705886841
+
+description: Room
+mid: /m/06ht1
+score: 0.520679771900177
+topicality: 0.520679771900177
+
+description: Diagram
+mid: /m/02v0m2
+score: 0.5177104473114014
+topicality: 0.5177104473114014
+
+description: Portable communications device
+mid: /m/020fsy
+score: 0.5130312442779541
+topicality: 0.5130312442779541
+
+description: Logo
+mid: /m/0dwx7
+score: 0.5039441585540771
+topicality: 0.5039441585540771
+

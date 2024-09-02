@@ -1,0 +1,100 @@
+description: World
+mid: /m/09nm_
+score: 0.8786099553108215
+topicality: 0.8786099553108215
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.7992599606513977
+topicality: 0.7992599606513977
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.7777153849601746
+topicality: 0.7777153849601746
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7525073289871216
+topicality: 0.7525073289871216
+
+description: Event
+mid: /m/081pkj
+score: 0.7488495707511902
+topicality: 0.7488495707511902
+
+description: Flooring
+mid: /m/01c34b
+score: 0.6896109580993652
+topicality: 0.6896109580993652
+
+description: Stage
+mid: /m/04_5hy
+score: 0.6597082614898682
+topicality: 0.6597082614898682
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.6480591297149658
+topicality: 0.6480591297149658
+
+description: Display device
+mid: /m/029zz6
+score: 0.6141862273216248
+topicality: 0.6141862273216248
+
+description: Advertising
+mid: /m/011s0
+score: 0.6139174699783325
+topicality: 0.6139174699783325
+
+description: Carpet
+mid: /m/01n5cy
+score: 0.6058545112609863
+topicality: 0.6058545112609863
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.5727766156196594
+topicality: 0.5727766156196594
+
+description: Performance
+mid: /m/01gq53
+score: 0.5720888376235962
+topicality: 0.5720888376235962
+
+description: Games
+mid: /m/03bt1gh
+score: 0.5665794610977173
+topicality: 0.5665794610977173
+
+description: Font
+mid: /m/03gq5hm
+score: 0.561714768409729
+topicality: 0.561714768409729
+
+description: Media
+mid: /m/03qh03g
+score: 0.5589035749435425
+topicality: 0.5589035749435425
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.5559623837471008
+topicality: 0.5559623837471008
+
+description: Recreation
+mid: /m/06bm2
+score: 0.5384812355041504
+topicality: 0.5384812355041504
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5298107266426086
+topicality: 0.5298107266426086
+
+description: Animation
+mid: /m/0hcr
+score: 0.5117142200469971
+topicality: 0.5117142200469971
+

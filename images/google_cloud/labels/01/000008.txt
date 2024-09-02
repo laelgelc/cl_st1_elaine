@@ -1,0 +1,55 @@
+description: Font
+mid: /m/03gq5hm
+score: 0.8138080835342407
+topicality: 0.8138080835342407
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.7801589965820312
+topicality: 0.7801589965820312
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.742793083190918
+topicality: 0.742793083190918
+
+description: Parallel
+mid: /m/030zfn
+score: 0.730628490447998
+topicality: 0.730628490447998
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7245795726776123
+topicality: 0.7245795726776123
+
+description: Multimedia
+mid: /m/0541p
+score: 0.7034554481506348
+topicality: 0.7034554481506348
+
+description: Brand
+mid: /m/01cd9
+score: 0.6542357206344604
+topicality: 0.6542357206344604
+
+description: Logo
+mid: /m/0dwx7
+score: 0.6236839890480042
+topicality: 0.6236839890480042
+
+description: Software
+mid: /m/01mf0
+score: 0.6114601492881775
+topicality: 0.6114601492881775
+
+description: Number
+mid: /m/05fwb
+score: 0.5171176195144653
+topicality: 0.5171176195144653
+
+description: Media
+mid: /m/03qh03g
+score: 0.5090509057044983
+topicality: 0.5090509057044983
+

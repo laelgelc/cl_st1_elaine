@@ -1,0 +1,135 @@
+description: Shoulder
+mid: /m/01ssh5
+score: 0.938072919845581
+topicality: 0.938072919845581
+
+description: Blue
+mid: /m/01g5v
+score: 0.8921894431114197
+topicality: 0.8921894431114197
+
+description: Flash photography
+mid: /g/1tr17zw8
+score: 0.8831812143325806
+topicality: 0.8831812143325806
+
+description: Gesture
+mid: /m/0244x1
+score: 0.852604866027832
+topicality: 0.852604866027832
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.7844197154045105
+topicality: 0.7844197154045105
+
+description: Chest
+mid: /m/0dzdr
+score: 0.7493077516555786
+topicality: 0.7493077516555786
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.7467742562294006
+topicality: 0.7467742562294006
+
+description: Performing arts
+mid: /m/05qjc
+score: 0.746486485004425
+topicality: 0.746486485004425
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7442620396614075
+topicality: 0.7442620396614075
+
+description: Event
+mid: /m/081pkj
+score: 0.740061342716217
+topicality: 0.740061342716217
+
+description: Jewellery
+mid: /m/0404d
+score: 0.7387179732322693
+topicality: 0.7387179732322693
+
+description: Spokesperson
+mid: /m/01xr66
+score: 0.7194420695304871
+topicality: 0.7194420695304871
+
+description: Elbow
+mid: /m/01vm1p
+score: 0.7162389159202576
+topicality: 0.7162389159202576
+
+description: Trunk
+mid: /m/031vtq
+score: 0.7140666246414185
+topicality: 0.7140666246414185
+
+description: Curtain
+mid: /m/03rszm
+score: 0.6803809404373169
+topicality: 0.6803809404373169
+
+description: Public speaking
+mid: /m/068k4
+score: 0.658222496509552
+topicality: 0.658222496509552
+
+description: Formal wear
+mid: /m/02w3_2
+score: 0.655717670917511
+topicality: 0.655717670917511
+
+description: Speech
+mid: /m/09x0r
+score: 0.6556326746940613
+topicality: 0.6556326746940613
+
+description: Necklace
+mid: /m/01llwg
+score: 0.653786301612854
+topicality: 0.653786301612854
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.6426234841346741
+topicality: 0.6426234841346741
+
+description: Competition
+mid: /m/018tl7
+score: 0.6371138691902161
+topicality: 0.6371138691902161
+
+description: Performance
+mid: /m/01gq53
+score: 0.6043174862861633
+topicality: 0.6043174862861633
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.5764217972755432
+topicality: 0.5764217972755432
+
+description: Abdomen
+mid: /m/08y7p8
+score: 0.5741560459136963
+topicality: 0.5741560459136963
+
+description: Audio equipment
+mid: /m/01yttv
+score: 0.5565229058265686
+topicality: 0.5565229058265686
+
+description: Singer
+mid: /m/09l65
+score: 0.5246484279632568
+topicality: 0.5246484279632568
+
+description: Portrait photography
+mid: /m/0chml9
+score: 0.5129103660583496
+topicality: 0.5129103660583496
+

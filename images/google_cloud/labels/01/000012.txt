@@ -1,0 +1,110 @@
+description: Entertainment
+mid: /m/02jjt
+score: 0.8371468186378479
+topicality: 0.8371468186378479
+
+description: Crowd
+mid: /m/03qtwd
+score: 0.7562081813812256
+topicality: 0.7562081813812256
+
+description: Event
+mid: /m/081pkj
+score: 0.7490445375442505
+topicality: 0.7490445375442505
+
+description: Suit
+mid: /m/01xyhv
+score: 0.7278887033462524
+topicality: 0.7278887033462524
+
+description: Chair
+mid: /m/01mzpv
+score: 0.716916561126709
+topicality: 0.716916561126709
+
+description: Stage
+mid: /m/04_5hy
+score: 0.6862678527832031
+topicality: 0.6862678527832031
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.6777409911155701
+topicality: 0.6777409911155701
+
+description: Audience
+mid: /m/033lpr
+score: 0.6735984086990356
+topicality: 0.6735984086990356
+
+description: Performance
+mid: /m/01gq53
+score: 0.6645546555519104
+topicality: 0.6645546555519104
+
+description: Flooring
+mid: /m/01c34b
+score: 0.6520692110061646
+topicality: 0.6520692110061646
+
+description: Leisure
+mid: /m/04g3r
+score: 0.650754451751709
+topicality: 0.650754451751709
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.6480345129966736
+topicality: 0.6480345129966736
+
+description: Boot
+mid: /m/01b638
+score: 0.6281015276908875
+topicality: 0.6281015276908875
+
+description: Room
+mid: /m/06ht1
+score: 0.6160923838615417
+topicality: 0.6160923838615417
+
+description: Night
+mid: /m/01d74z
+score: 0.5906597375869751
+topicality: 0.5906597375869751
+
+description: Carpet
+mid: /m/01n5cy
+score: 0.5537027716636658
+topicality: 0.5537027716636658
+
+description: Performing arts
+mid: /m/05qjc
+score: 0.5336966514587402
+topicality: 0.5336966514587402
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.5231205224990845
+topicality: 0.5231205224990845
+
+description: Red carpet
+mid: /m/0645zg
+score: 0.5226714015007019
+topicality: 0.5226714015007019
+
+description: Competition
+mid: /m/018tl7
+score: 0.5102875232696533
+topicality: 0.5102875232696533
+
+description: Auditorium
+mid: /m/039l3v
+score: 0.5096021294593811
+topicality: 0.5096021294593811
+
+description: Recreation
+mid: /m/06bm2
+score: 0.5016778707504272
+topicality: 0.5016778707504272
+

@@ -1,0 +1,110 @@
+description: Gesture
+mid: /m/0244x1
+score: 0.8526043891906738
+topicality: 0.8526043891906738
+
+description: Gas
+mid: /m/037xy
+score: 0.775458037853241
+topicality: 0.775458037853241
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.7217018604278564
+topicality: 0.7217018604278564
+
+description: Font
+mid: /m/03gq5hm
+score: 0.720313549041748
+topicality: 0.720313549041748
+
+description: Chair
+mid: /m/01mzpv
+score: 0.6791612505912781
+topicality: 0.6791612505912781
+
+description: Cylinder
+mid: /m/03h_4m
+score: 0.6724622845649719
+topicality: 0.6724622845649719
+
+description: Art
+mid: /m/0jjw
+score: 0.6411938667297363
+topicality: 0.6411938667297363
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6368146538734436
+topicality: 0.6368146538734436
+
+description: Machine
+mid: /m/0dkw5
+score: 0.6347511410713196
+topicality: 0.6347511410713196
+
+description: Diagram
+mid: /m/02v0m2
+score: 0.6214873194694519
+topicality: 0.6214873194694519
+
+description: Animation
+mid: /m/0hcr
+score: 0.6021491885185242
+topicality: 0.6021491885185242
+
+description: Square
+mid: /m/030jx3
+score: 0.5703131556510925
+topicality: 0.5703131556510925
+
+description: Room
+mid: /m/06ht1
+score: 0.5640708804130554
+topicality: 0.5640708804130554
+
+description: Still life photography
+mid: /m/027_ny3
+score: 0.5412726402282715
+topicality: 0.5412726402282715
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.5396002531051636
+topicality: 0.5396002531051636
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5393528342247009
+topicality: 0.5393528342247009
+
+description: Brand
+mid: /m/01cd9
+score: 0.530085027217865
+topicality: 0.530085027217865
+
+description: Video game software
+mid: /m/0987_ns
+score: 0.5298736691474915
+topicality: 0.5298736691474915
+
+description: Daylighting
+mid: /m/0k2n5
+score: 0.5171842575073242
+topicality: 0.5171842575073242
+
+description: 3d modeling
+mid: /m/02p30vv
+score: 0.5103822946548462
+topicality: 0.5103822946548462
+
+description: Flooring
+mid: /m/01c34b
+score: 0.5061015486717224
+topicality: 0.5061015486717224
+
+description: Symmetry
+mid: /m/0f28m
+score: 0.5019814968109131
+topicality: 0.5019814968109131
+

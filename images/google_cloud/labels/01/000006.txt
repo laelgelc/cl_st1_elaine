@@ -1,0 +1,60 @@
+description: Font
+mid: /m/03gq5hm
+score: 0.7821226119995117
+topicality: 0.7821226119995117
+
+description: Event
+mid: /m/081pkj
+score: 0.7436782717704773
+topicality: 0.7436782717704773
+
+description: Crowd
+mid: /m/03qtwd
+score: 0.7294726967811584
+topicality: 0.7294726967811584
+
+description: City
+mid: /m/01n32
+score: 0.7234863638877869
+topicality: 0.7234863638877869
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.7012851238250732
+topicality: 0.7012851238250732
+
+description: Stage equipment
+mid: /m/0h8mknb
+score: 0.6923179030418396
+topicality: 0.6923179030418396
+
+description: Audience
+mid: /m/033lpr
+score: 0.6509157419204712
+topicality: 0.6509157419204712
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.6114153265953064
+topicality: 0.6114153265953064
+
+description: Team
+mid: /m/011l78
+score: 0.6020445823669434
+topicality: 0.6020445823669434
+
+description: Auditorium
+mid: /m/039l3v
+score: 0.5738109946250916
+topicality: 0.5738109946250916
+
+description: Performance
+mid: /m/01gq53
+score: 0.5281779170036316
+topicality: 0.5281779170036316
+
+description: Company
+mid: /m/03bxgrp
+score: 0.5199285745620728
+topicality: 0.5199285745620728
+

@@ -1,0 +1,95 @@
+description: Material property
+mid: /m/0457gc6
+score: 0.8007639050483704
+topicality: 0.8007639050483704
+
+description: Font
+mid: /m/03gq5hm
+score: 0.777188777923584
+topicality: 0.777188777923584
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.7608980536460876
+topicality: 0.7608980536460876
+
+description: Machine
+mid: /m/0dkw5
+score: 0.7341457009315491
+topicality: 0.7341457009315491
+
+description: Art
+mid: /m/0jjw
+score: 0.6946125030517578
+topicality: 0.6946125030517578
+
+description: Brand
+mid: /m/01cd9
+score: 0.6767122149467468
+topicality: 0.6767122149467468
+
+description: Room
+mid: /m/06ht1
+score: 0.641952633857727
+topicality: 0.641952633857727
+
+description: Building
+mid: /m/0cgh4
+score: 0.6163552403450012
+topicality: 0.6163552403450012
+
+description: Advertising
+mid: /m/011s0
+score: 0.613803505897522
+topicality: 0.613803505897522
+
+description: Engineering
+mid: /m/02ky346
+score: 0.6133908629417419
+topicality: 0.6133908629417419
+
+description: Automotive design
+mid: /m/068mqj
+score: 0.5967734456062317
+topicality: 0.5967734456062317
+
+description: Facade
+mid: /m/01x314
+score: 0.5960112810134888
+topicality: 0.5960112810134888
+
+description: Flooring
+mid: /m/01c34b
+score: 0.5838267803192139
+topicality: 0.5838267803192139
+
+description: Multimedia
+mid: /m/0541p
+score: 0.56488436460495
+topicality: 0.56488436460495
+
+description: Ceiling
+mid: /m/03gfsp
+score: 0.5562078356742859
+topicality: 0.5562078356742859
+
+description: Urban design
+mid: /m/0d9wj
+score: 0.5558659434318542
+topicality: 0.5558659434318542
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5234280824661255
+topicality: 0.5234280824661255
+
+description: Shelving
+mid: /m/0h8n982
+score: 0.5131356120109558
+topicality: 0.5131356120109558
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.504408061504364
+topicality: 0.504408061504364
+

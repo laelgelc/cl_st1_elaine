@@ -1,0 +1,125 @@
+description: Entertainment
+mid: /m/02jjt
+score: 0.8399168848991394
+topicality: 0.8399168848991394
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7860711812973022
+topicality: 0.7860711812973022
+
+description: Performing arts
+mid: /m/05qjc
+score: 0.7689134478569031
+topicality: 0.7689134478569031
+
+description: Public speaking
+mid: /m/068k4
+score: 0.7682094573974609
+topicality: 0.7682094573974609
+
+description: Spokesperson
+mid: /m/01xr66
+score: 0.7493818998336792
+topicality: 0.7493818998336792
+
+description: Event
+mid: /m/081pkj
+score: 0.7482927441596985
+topicality: 0.7482927441596985
+
+description: Stage equipment
+mid: /m/0h8mknb
+score: 0.7094732522964478
+topicality: 0.7094732522964478
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.6944300532341003
+topicality: 0.6944300532341003
+
+description: Stage
+mid: /m/04_5hy
+score: 0.6889985799789429
+topicality: 0.6889985799789429
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.665982186794281
+topicality: 0.665982186794281
+
+description: Job
+mid: /m/04115t2
+score: 0.6609147787094116
+topicality: 0.6609147787094116
+
+description: Brand
+mid: /m/01cd9
+score: 0.6394988894462585
+topicality: 0.6394988894462585
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.6308979392051697
+topicality: 0.6308979392051697
+
+description: Orator
+mid: /m/0hpjt
+score: 0.6121888160705566
+topicality: 0.6121888160705566
+
+description: Performance
+mid: /m/01gq53
+score: 0.6025940179824829
+topicality: 0.6025940179824829
+
+description: Formal wear
+mid: /m/02w3_2
+score: 0.5956966280937195
+topicality: 0.5956966280937195
+
+description: Speech
+mid: /m/09x0r
+score: 0.5920774340629578
+topicality: 0.5920774340629578
+
+description: Presentation
+mid: /m/02y3rj
+score: 0.5801492929458618
+topicality: 0.5801492929458618
+
+description: Logo
+mid: /m/0dwx7
+score: 0.5791931748390198
+topicality: 0.5791931748390198
+
+description: Advertising
+mid: /m/011s0
+score: 0.5775263905525208
+topicality: 0.5775263905525208
+
+description: Darkness
+mid: /m/01kyr8
+score: 0.555411159992218
+topicality: 0.555411159992218
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5510762333869934
+topicality: 0.5510762333869934
+
+description: Display device
+mid: /m/029zz6
+score: 0.5194506049156189
+topicality: 0.5194506049156189
+
+description: Company
+mid: /m/03bxgrp
+score: 0.5116544365882874
+topicality: 0.5116544365882874
+
+description: Media
+mid: /m/03qh03g
+score: 0.5074130296707153
+topicality: 0.5074130296707153
+

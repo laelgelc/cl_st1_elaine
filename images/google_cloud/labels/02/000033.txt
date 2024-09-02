@@ -1,0 +1,105 @@
+description: Product
+mid: /m/01jwgf
+score: 0.9080926775932312
+topicality: 0.9080926775932312
+
+description: Plant
+mid: /m/05s2s
+score: 0.8851462006568909
+topicality: 0.8851462006568909
+
+description: Purple
+mid: /m/09ggk
+score: 0.8811517953872681
+topicality: 0.8811517953872681
+
+description: Art
+mid: /m/0jjw
+score: 0.7772098779678345
+topicality: 0.7772098779678345
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7717148661613464
+topicality: 0.7717148661613464
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7298462986946106
+topicality: 0.7298462986946106
+
+description: Flower
+mid: /m/0c9ph5
+score: 0.7102220058441162
+topicality: 0.7102220058441162
+
+description: Landscape
+mid: /m/025s3q0
+score: 0.6841175556182861
+topicality: 0.6841175556182861
+
+description: Collage
+mid: /m/01bsxb
+score: 0.6835822463035583
+topicality: 0.6835822463035583
+
+description: Room
+mid: /m/06ht1
+score: 0.6786894202232361
+topicality: 0.6786894202232361
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.6607442498207092
+topicality: 0.6607442498207092
+
+description: Petal
+mid: /m/016q19
+score: 0.6520686745643616
+topicality: 0.6520686745643616
+
+description: Brand
+mid: /m/01cd9
+score: 0.6392135620117188
+topicality: 0.6392135620117188
+
+description: Animation
+mid: /m/0hcr
+score: 0.6253977417945862
+topicality: 0.6253977417945862
+
+description: Calabaza
+mid: /m/03lnzv
+score: 0.6194790601730347
+topicality: 0.6194790601730347
+
+description: Advertising
+mid: /m/011s0
+score: 0.6133012175559998
+topicality: 0.6133012175559998
+
+description: Circle
+mid: /m/01vkl
+score: 0.6123485565185547
+topicality: 0.6123485565185547
+
+description: Graphics
+mid: /m/021sdg
+score: 0.585216760635376
+topicality: 0.585216760635376
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5778140425682068
+topicality: 0.5778140425682068
+
+description: Wheel
+mid: /m/083wq
+score: 0.5534169673919678
+topicality: 0.5534169673919678
+
+description: Games
+mid: /m/03bt1gh
+score: 0.5134989619255066
+topicality: 0.5134989619255066
+

@@ -1,0 +1,90 @@
+description: Wheel
+mid: /m/083wq
+score: 0.9600347876548767
+topicality: 0.9600347876548767
+
+description: Tire
+mid: /m/0h9mv
+score: 0.9380821585655212
+topicality: 0.9380821585655212
+
+description: Wheelchair
+mid: /m/0qmmr
+score: 0.8815574049949646
+topicality: 0.8815574049949646
+
+description: Tableware
+mid: /m/04brg2
+score: 0.8437471389770508
+topicality: 0.8437471389770508
+
+description: Automotive design
+mid: /m/068mqj
+score: 0.7944420576095581
+topicality: 0.7944420576095581
+
+description: Eyewear
+mid: /m/0j272k5
+score: 0.706179141998291
+topicality: 0.706179141998291
+
+description: Room
+mid: /m/06ht1
+score: 0.6874016523361206
+topicality: 0.6874016523361206
+
+description: Kitchen appliance
+mid: /m/0h99cwc
+score: 0.6844797134399414
+topicality: 0.6844797134399414
+
+description: Font
+mid: /m/03gq5hm
+score: 0.6643550992012024
+topicality: 0.6643550992012024
+
+description: Brand
+mid: /m/01cd9
+score: 0.6349009871482849
+topicality: 0.6349009871482849
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.6316846013069153
+topicality: 0.6316846013069153
+
+description: Advertising
+mid: /m/011s0
+score: 0.6286415457725525
+topicality: 0.6286415457725525
+
+description: Machine
+mid: /m/0dkw5
+score: 0.6265140175819397
+topicality: 0.6265140175819397
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5986242890357971
+topicality: 0.5986242890357971
+
+description: Chair
+mid: /m/01mzpv
+score: 0.5883216261863708
+topicality: 0.5883216261863708
+
+description: Bowl
+mid: /m/04kkgm
+score: 0.5167920589447021
+topicality: 0.5167920589447021
+
+description: T-shirt
+mid: /m/013s93
+score: 0.5143969655036926
+topicality: 0.5143969655036926
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.5126323699951172
+topicality: 0.5126323699951172
+

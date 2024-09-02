@@ -1,0 +1,120 @@
+description: Penguin
+mid: /m/05z6w
+score: 0.973674476146698
+topicality: 0.973674476146698
+
+description: Bird
+mid: /m/015p6
+score: 0.9711839556694031
+topicality: 0.9711839556694031
+
+description: Snow
+mid: /m/06_dn
+score: 0.9572833180427551
+topicality: 0.9572833180427551
+
+description: Photograph
+mid: /m/068jd
+score: 0.9419621229171753
+topicality: 0.9419621229171753
+
+description: Ecoregion
+mid: /m/0cblv
+score: 0.9267746806144714
+topicality: 0.9267746806144714
+
+description: Beak
+mid: /m/01c4rd
+score: 0.9021791219711304
+topicality: 0.9021791219711304
+
+description: Nature
+mid: /m/05h0n
+score: 0.9002339839935303
+topicality: 0.9002339839935303
+
+description: Natural environment
+mid: /m/02py09
+score: 0.8938261270523071
+topicality: 0.8938261270523071
+
+description: adÃ©lie penguin
+mid: /m/0ly7l
+score: 0.877752423286438
+topicality: 0.877752423286438
+
+description: Organism
+mid: /m/05nnm
+score: 0.8622579574584961
+topicality: 0.8622579574584961
+
+description: Atmospheric phenomenon
+mid: /m/07pw27b
+score: 0.847693920135498
+topicality: 0.847693920135498
+
+description: Freezing
+mid: /m/01c791
+score: 0.797288715839386
+topicality: 0.797288715839386
+
+description: Adaptation
+mid: /m/03r_vp
+score: 0.7933897376060486
+topicality: 0.7933897376060486
+
+description: Flightless bird
+mid: /m/03qqnt
+score: 0.7727247476577759
+topicality: 0.7727247476577759
+
+description: Beauty
+mid: /m/01f43
+score: 0.749079704284668
+topicality: 0.749079704284668
+
+description: Terrestrial animal
+mid: /m/0fbf1m
+score: 0.7317400574684143
+topicality: 0.7317400574684143
+
+description: Ice cap
+mid: /m/04b966
+score: 0.7259436845779419
+topicality: 0.7259436845779419
+
+description: Winter
+mid: /m/086mh
+score: 0.7081697583198547
+topicality: 0.7081697583198547
+
+description: Polar ice cap
+mid: /m/048nfp
+score: 0.6999777555465698
+topicality: 0.6999777555465698
+
+description: Wildlife
+mid: /m/01280g
+score: 0.602056086063385
+topicality: 0.602056086063385
+
+description: Landscape
+mid: /m/025s3q0
+score: 0.5942551493644714
+topicality: 0.5942551493644714
+
+description: Arctic
+mid: /m/09738
+score: 0.583823025226593
+topicality: 0.583823025226593
+
+description: Emperor penguin
+mid: /m/01gkbw
+score: 0.5575592517852783
+topicality: 0.5575592517852783
+
+description: Science
+mid: /m/06mq7
+score: 0.551152229309082
+topicality: 0.551152229309082
+

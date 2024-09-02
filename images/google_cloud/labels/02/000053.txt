@@ -1,0 +1,115 @@
+description: Land lot
+mid: /m/0gs32y
+score: 0.8421597480773926
+topicality: 0.8421597480773926
+
+description: Grass
+mid: /m/08t9c_
+score: 0.805404543876648
+topicality: 0.805404543876648
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.7704558968544006
+topicality: 0.7704558968544006
+
+description: Urban design
+mid: /m/0d9wj
+score: 0.751723051071167
+topicality: 0.751723051071167
+
+description: Stairs
+mid: /m/01lynh
+score: 0.7249295711517334
+topicality: 0.7249295711517334
+
+description: Outdoor play equipment
+mid: /m/0h8jmzl
+score: 0.7215553522109985
+topicality: 0.7215553522109985
+
+description: Wood
+mid: /m/083vt
+score: 0.68731689453125
+topicality: 0.68731689453125
+
+description: Roof
+mid: /m/06hyd
+score: 0.671671986579895
+topicality: 0.671671986579895
+
+description: Tree
+mid: /m/07j7r
+score: 0.6662947535514832
+topicality: 0.6662947535514832
+
+description: Leisure
+mid: /m/04g3r
+score: 0.6541050672531128
+topicality: 0.6541050672531128
+
+description: Recreation
+mid: /m/06bm2
+score: 0.6421821713447571
+topicality: 0.6421821713447571
+
+description: Building
+mid: /m/0cgh4
+score: 0.6389156579971313
+topicality: 0.6389156579971313
+
+description: Facade
+mid: /m/01x314
+score: 0.6302125453948975
+topicality: 0.6302125453948975
+
+description: Landscape
+mid: /m/025s3q0
+score: 0.624591052532196
+topicality: 0.624591052532196
+
+description: Animation
+mid: /m/0hcr
+score: 0.6195558309555054
+topicality: 0.6195558309555054
+
+description: Art
+mid: /m/0jjw
+score: 0.6183856129646301
+topicality: 0.6183856129646301
+
+description: City
+mid: /m/01n32
+score: 0.6023294925689697
+topicality: 0.6023294925689697
+
+description: Arch
+mid: /m/0dpvm
+score: 0.5836742520332336
+topicality: 0.5836742520332336
+
+description: Outdoor structure
+mid: /m/0h8lhsd
+score: 0.5828467607498169
+topicality: 0.5828467607498169
+
+description: Room
+mid: /m/06ht1
+score: 0.5671509504318237
+topicality: 0.5671509504318237
+
+description: Play
+mid: /m/06wtgq
+score: 0.5306755900382996
+topicality: 0.5306755900382996
+
+description: 3d modeling
+mid: /m/02p30vv
+score: 0.5090735554695129
+topicality: 0.5090735554695129
+
+description: Yard
+mid: /m/049_3v
+score: 0.5038684606552124
+topicality: 0.5038684606552124
+

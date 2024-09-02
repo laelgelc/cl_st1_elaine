@@ -1,0 +1,220 @@
+description: Purple
+mid: /m/09ggk
+score: 0.9008234143257141
+topicality: 0.9008234143257141
+
+description: Plant
+mid: /m/05s2s
+score: 0.8954058289527893
+topicality: 0.8954058289527893
+
+description: Branch
+mid: /m/0b5gs
+score: 0.8778150081634521
+topicality: 0.8778150081634521
+
+description: Petal
+mid: /m/016q19
+score: 0.8738837838172913
+topicality: 0.8738837838172913
+
+description: Organism
+mid: /m/05nnm
+score: 0.8578664660453796
+topicality: 0.8578664660453796
+
+description: Violet
+mid: /m/09gg3
+score: 0.8392463326454163
+topicality: 0.8392463326454163
+
+description: Pink
+mid: /m/01fklc
+score: 0.8380172848701477
+topicality: 0.8380172848701477
+
+description: Art
+mid: /m/0jjw
+score: 0.8227238655090332
+topicality: 0.8227238655090332
+
+description: Twig
+mid: /m/016nqt
+score: 0.8025850653648376
+topicality: 0.8025850653648376
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7989836931228638
+topicality: 0.7989836931228638
+
+description: Symmetry
+mid: /m/0f28m
+score: 0.7788628339767456
+topicality: 0.7788628339767456
+
+description: Cg artwork
+mid: /m/02tx1k
+score: 0.772652804851532
+topicality: 0.772652804851532
+
+description: Pattern
+mid: /m/0hwky
+score: 0.7606295943260193
+topicality: 0.7606295943260193
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7429247498512268
+topicality: 0.7429247498512268
+
+description: Space
+mid: /m/06wqb
+score: 0.7286146283149719
+topicality: 0.7286146283149719
+
+description: Wing
+mid: /m/083s2
+score: 0.727327287197113
+topicality: 0.727327287197113
+
+description: Darkness
+mid: /m/01kyr8
+score: 0.7229485511779785
+topicality: 0.7229485511779785
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7165946960449219
+topicality: 0.7165946960449219
+
+description: Visual arts
+mid: /m/0p9xx
+score: 0.6874732971191406
+topicality: 0.6874732971191406
+
+description: Fractal art
+mid: /m/0cxwt
+score: 0.6874495148658752
+topicality: 0.6874495148658752
+
+description: Flowering plant
+mid: /m/04sjm
+score: 0.6858043670654297
+topicality: 0.6858043670654297
+
+description: Ceiling
+mid: /m/03gfsp
+score: 0.6842166185379028
+topicality: 0.6842166185379028
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6830480098724365
+topicality: 0.6830480098724365
+
+description: Flower
+mid: /m/0c9ph5
+score: 0.6764774918556213
+topicality: 0.6764774918556213
+
+description: Tree
+mid: /m/07j7r
+score: 0.6598573923110962
+topicality: 0.6598573923110962
+
+description: Macro photography
+mid: /m/03rbf6
+score: 0.6574797630310059
+topicality: 0.6574797630310059
+
+description: Light fixture
+mid: /m/08jpwt
+score: 0.6328822374343872
+topicality: 0.6328822374343872
+
+description: Wallpaper
+mid: /m/01lnt7
+score: 0.6319501996040344
+topicality: 0.6319501996040344
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.6313787698745728
+topicality: 0.6313787698745728
+
+description: Lens flare
+mid: /m/017bm6
+score: 0.6244941353797913
+topicality: 0.6244941353797913
+
+description: Circle
+mid: /m/01vkl
+score: 0.6227669715881348
+topicality: 0.6227669715881348
+
+description: Graphic design
+mid: /m/03c31
+score: 0.6201090216636658
+topicality: 0.6201090216636658
+
+description: Still life photography
+mid: /m/027_ny3
+score: 0.6109182238578796
+topicality: 0.6109182238578796
+
+description: Fashion accessory
+mid: /m/0463sg
+score: 0.5993080139160156
+topicality: 0.5993080139160156
+
+description: Floral design
+mid: /m/06gjp9
+score: 0.5953811407089233
+topicality: 0.5953811407089233
+
+description: Astronomical object
+mid: /m/01d9ll
+score: 0.5765494108200073
+topicality: 0.5765494108200073
+
+description: Wildflower
+mid: /m/03f35r
+score: 0.5607237815856934
+topicality: 0.5607237815856934
+
+description: Feather
+mid: /m/0dfgf
+score: 0.5462087392807007
+topicality: 0.5462087392807007
+
+description: Plant stem
+mid: /m/01ttd6
+score: 0.541424036026001
+topicality: 0.541424036026001
+
+description: Animation
+mid: /m/0hcr
+score: 0.534133791923523
+topicality: 0.534133791923523
+
+description: Fictional character
+mid: /m/02h7lkt
+score: 0.5267370939254761
+topicality: 0.5267370939254761
+
+description: Night
+mid: /m/01d74z
+score: 0.5186942219734192
+topicality: 0.5186942219734192
+
+description: Lighting accessory
+mid: /m/0h8lyfz
+score: 0.5132547616958618
+topicality: 0.5132547616958618
+
+description: Midnight
+mid: /m/01kv7h
+score: 0.5050402283668518
+topicality: 0.5050402283668518
+

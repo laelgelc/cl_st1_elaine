@@ -1,0 +1,125 @@
+description: Crescent
+mid: /m/014kk_
+score: 0.8779531121253967
+topicality: 0.8779531121253967
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8205505013465881
+topicality: 0.8205505013465881
+
+description: Moon
+mid: /m/04wv_
+score: 0.8097283244132996
+topicality: 0.8097283244132996
+
+description: Circle
+mid: /m/01vkl
+score: 0.7576692700386047
+topicality: 0.7576692700386047
+
+description: Symbol
+mid: /m/09ddf
+score: 0.7297980785369873
+topicality: 0.7297980785369873
+
+description: Darkness
+mid: /m/01kyr8
+score: 0.7192054986953735
+topicality: 0.7192054986953735
+
+description: Astronomical object
+mid: /m/01d9ll
+score: 0.7083969712257385
+topicality: 0.7083969712257385
+
+description: Monochrome photography
+mid: /m/03d49p1
+score: 0.7051552534103394
+topicality: 0.7051552534103394
+
+description: Event
+mid: /m/081pkj
+score: 0.7000662684440613
+topicality: 0.7000662684440613
+
+description: Logo
+mid: /m/0dwx7
+score: 0.692600667476654
+topicality: 0.692600667476654
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6864438056945801
+topicality: 0.6864438056945801
+
+description: Brand
+mid: /m/01cd9
+score: 0.6862066984176636
+topicality: 0.6862066984176636
+
+description: Monochrome
+mid: /m/01mwkf
+score: 0.6813414096832275
+topicality: 0.6813414096832275
+
+description: Triangle
+mid: /m/07jx7
+score: 0.6722749471664429
+topicality: 0.6722749471664429
+
+description: Pattern
+mid: /m/0hwky
+score: 0.6673009395599365
+topicality: 0.6673009395599365
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5999055504798889
+topicality: 0.5999055504798889
+
+description: Art
+mid: /m/0jjw
+score: 0.5862331986427307
+topicality: 0.5862331986427307
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.56525719165802
+topicality: 0.56525719165802
+
+description: Moonlight
+mid: /m/03qwvw
+score: 0.555881917476654
+topicality: 0.555881917476654
+
+description: Eclipse
+mid: /m/02npn
+score: 0.5443584322929382
+topicality: 0.5443584322929382
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.5409727692604065
+topicality: 0.5409727692604065
+
+description: Celestial event
+mid: /m/02rhkz
+score: 0.5384307503700256
+topicality: 0.5384307503700256
+
+description: Sign
+mid: /m/06zsq
+score: 0.5281015634536743
+topicality: 0.5281015634536743
+
+description: Trademark
+mid: /m/07d0f
+score: 0.5192722082138062
+topicality: 0.5192722082138062
+
+description: Number
+mid: /m/05fwb
+score: 0.5171887874603271
+topicality: 0.5171887874603271
+

@@ -1,0 +1,145 @@
+description: World
+mid: /m/09nm_
+score: 0.9123591780662537
+topicality: 0.9123591780662537
+
+description: Blue
+mid: /m/01g5v
+score: 0.9087792038917542
+topicality: 0.9087792038917542
+
+description: Azure
+mid: /m/03jn2m
+score: 0.8990998268127441
+topicality: 0.8990998268127441
+
+description: Purple
+mid: /m/09ggk
+score: 0.8771885633468628
+topicality: 0.8771885633468628
+
+description: Standing
+mid: /m/02wzbmj
+score: 0.8642165660858154
+topicality: 0.8642165660858154
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.767458438873291
+topicality: 0.767458438873291
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.7501683235168457
+topicality: 0.7501683235168457
+
+description: Event
+mid: /m/081pkj
+score: 0.7500331997871399
+topicality: 0.7500331997871399
+
+description: Flooring
+mid: /m/01c34b
+score: 0.7478929162025452
+topicality: 0.7478929162025452
+
+description: Technology
+mid: /m/07c1v
+score: 0.7424226403236389
+topicality: 0.7424226403236389
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.7285529375076294
+topicality: 0.7285529375076294
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7177832126617432
+topicality: 0.7177832126617432
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.7149165272712708
+topicality: 0.7149165272712708
+
+description: Television
+mid: /m/07c52
+score: 0.7007423043251038
+topicality: 0.7007423043251038
+
+description: Speech
+mid: /m/09x0r
+score: 0.6684902906417847
+topicality: 0.6684902906417847
+
+description: Stage equipment
+mid: /m/0h8mknb
+score: 0.6658182740211487
+topicality: 0.6658182740211487
+
+description: Display device
+mid: /m/029zz6
+score: 0.6480648517608643
+topicality: 0.6480648517608643
+
+description: Formal wear
+mid: /m/02w3_2
+score: 0.6272004246711731
+topicality: 0.6272004246711731
+
+description: Carpet
+mid: /m/01n5cy
+score: 0.6238424777984619
+topicality: 0.6238424777984619
+
+description: Led-backlit lcd display
+mid: /m/05p37dx
+score: 0.6180945038795471
+topicality: 0.6180945038795471
+
+description: Job
+mid: /m/04115t2
+score: 0.6098327040672302
+topicality: 0.6098327040672302
+
+description: Projection screen
+mid: /m/06ycgh
+score: 0.603759229183197
+topicality: 0.603759229183197
+
+description: Flat panel display
+mid: /m/01qwsw
+score: 0.5944175124168396
+topicality: 0.5944175124168396
+
+description: Media
+mid: /m/03qh03g
+score: 0.578708291053772
+topicality: 0.578708291053772
+
+description: Public speaking
+mid: /m/068k4
+score: 0.560929536819458
+topicality: 0.560929536819458
+
+description: Multimedia
+mid: /m/0541p
+score: 0.5510788559913635
+topicality: 0.5510788559913635
+
+description: Advertising
+mid: /m/011s0
+score: 0.5469287037849426
+topicality: 0.5469287037849426
+
+description: High heels
+mid: /m/06k2mb
+score: 0.5384224057197571
+topicality: 0.5384224057197571
+
+description: Stage
+mid: /m/04_5hy
+score: 0.5183469653129578
+topicality: 0.5183469653129578
+

@@ -1,0 +1,85 @@
+description: Font
+mid: /m/03gq5hm
+score: 0.8234190344810486
+topicality: 0.8234190344810486
+
+description: Circle
+mid: /m/01vkl
+score: 0.7098245620727539
+topicality: 0.7098245620727539
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.6736739277839661
+topicality: 0.6736739277839661
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.6719454526901245
+topicality: 0.6719454526901245
+
+description: Event
+mid: /m/081pkj
+score: 0.63917076587677
+topicality: 0.63917076587677
+
+description: Brand
+mid: /m/01cd9
+score: 0.6315046548843384
+topicality: 0.6315046548843384
+
+description: Metal
+mid: /m/04t7l
+score: 0.6293220520019531
+topicality: 0.6293220520019531
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6275638341903687
+topicality: 0.6275638341903687
+
+description: Logo
+mid: /m/0dwx7
+score: 0.6097252368927002
+topicality: 0.6097252368927002
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.5993059277534485
+topicality: 0.5993059277534485
+
+description: Science
+mid: /m/06mq7
+score: 0.5776035785675049
+topicality: 0.5776035785675049
+
+description: Multimedia
+mid: /m/0541p
+score: 0.5700359344482422
+topicality: 0.5700359344482422
+
+description: Display device
+mid: /m/029zz6
+score: 0.5586516857147217
+topicality: 0.5586516857147217
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5528930425643921
+topicality: 0.5528930425643921
+
+description: Pattern
+mid: /m/0hwky
+score: 0.5492962598800659
+topicality: 0.5492962598800659
+
+description: Number
+mid: /m/05fwb
+score: 0.5429717302322388
+topicality: 0.5429717302322388
+
+description: Art
+mid: /m/0jjw
+score: 0.5138239860534668
+topicality: 0.5138239860534668
+

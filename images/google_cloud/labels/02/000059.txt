@@ -1,0 +1,100 @@
+description: Property
+mid: /m/05wrt
+score: 0.9421015977859497
+topicality: 0.9421015977859497
+
+description: Product
+mid: /m/01jwgf
+score: 0.9076268076896667
+topicality: 0.9076268076896667
+
+description: World
+mid: /m/09nm_
+score: 0.9002219438552856
+topicality: 0.9002219438552856
+
+description: Urban design
+mid: /m/0d9wj
+score: 0.8410273790359497
+topicality: 0.8410273790359497
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8197433352470398
+topicality: 0.8197433352470398
+
+description: Art
+mid: /m/0jjw
+score: 0.7890556454658508
+topicality: 0.7890556454658508
+
+description: Collage
+mid: /m/01bsxb
+score: 0.7375476360321045
+topicality: 0.7375476360321045
+
+description: Building
+mid: /m/0cgh4
+score: 0.7327961325645447
+topicality: 0.7327961325645447
+
+description: Event
+mid: /m/081pkj
+score: 0.7190925478935242
+topicality: 0.7190925478935242
+
+description: City
+mid: /m/01n32
+score: 0.708990216255188
+topicality: 0.708990216255188
+
+description: Advertising
+mid: /m/011s0
+score: 0.6932191252708435
+topicality: 0.6932191252708435
+
+description: Crowd
+mid: /m/03qtwd
+score: 0.6770966053009033
+topicality: 0.6770966053009033
+
+description: Suburb
+mid: /m/0750y
+score: 0.6312081813812256
+topicality: 0.6312081813812256
+
+description: Brand
+mid: /m/01cd9
+score: 0.6054229140281677
+topicality: 0.6054229140281677
+
+description: Room
+mid: /m/06ht1
+score: 0.5983431935310364
+topicality: 0.5983431935310364
+
+description: Publication
+mid: /m/01h1dd
+score: 0.5958400964736938
+topicality: 0.5958400964736938
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.5794855952262878
+topicality: 0.5794855952262878
+
+description: Mixed-use
+mid: /m/0c1vxg
+score: 0.5701655149459839
+topicality: 0.5701655149459839
+
+description: Travel
+mid: /m/014dsx
+score: 0.559741735458374
+topicality: 0.559741735458374
+
+description: Landscape
+mid: /m/025s3q0
+score: 0.5192658305168152
+topicality: 0.5192658305168152
+

@@ -1,0 +1,215 @@
+description: Furniture
+mid: /m/0c_jw
+score: 0.9475972652435303
+topicality: 0.9475972652435303
+
+description: Couch
+mid: /m/02crq1
+score: 0.933264970779419
+topicality: 0.933264970779419
+
+description: Picture frame
+mid: /m/06z37_
+score: 0.9223500490188599
+topicality: 0.9223500490188599
+
+description: Comfort
+mid: /m/08xgn7
+score: 0.909264862537384
+topicality: 0.909264862537384
+
+description: Table
+mid: /m/04bcr3
+score: 0.8828036785125732
+topicality: 0.8828036785125732
+
+description: studio couch
+mid: /m/026qbn5
+score: 0.8650781512260437
+topicality: 0.8650781512260437
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.8580600023269653
+topicality: 0.8580600023269653
+
+description: Interior design
+mid: /m/02rfdq
+score: 0.8542636632919312
+topicality: 0.8542636632919312
+
+description: Pillow
+mid: /m/034c16
+score: 0.8458548188209534
+topicality: 0.8458548188209534
+
+description: Lamp
+mid: /m/0dtln
+score: 0.8418972492218018
+topicality: 0.8418972492218018
+
+description: Living room
+mid: /m/03f6tq
+score: 0.8376366496086121
+topicality: 0.8376366496086121
+
+description: Bed frame
+mid: /m/0h70h_
+score: 0.8277742862701416
+topicality: 0.8277742862701416
+
+description: Floor
+mid: /m/0l7_8
+score: 0.816072404384613
+topicality: 0.816072404384613
+
+description: Flooring
+mid: /m/01c34b
+score: 0.7984950542449951
+topicality: 0.7984950542449951
+
+description: Real estate
+mid: /m/023907r
+score: 0.7913329005241394
+topicality: 0.7913329005241394
+
+description: Wood
+mid: /m/083vt
+score: 0.7826040387153625
+topicality: 0.7826040387153625
+
+description: Curtain
+mid: /m/03rszm
+score: 0.7659937143325806
+topicality: 0.7659937143325806
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7649936079978943
+topicality: 0.7649936079978943
+
+description: Linens
+mid: /m/06httj
+score: 0.7423354983329773
+topicality: 0.7423354983329773
+
+description: Bedding
+mid: /m/03mcr3
+score: 0.7215286493301392
+topicality: 0.7215286493301392
+
+description: Art
+mid: /m/0jjw
+score: 0.7168397307395935
+topicality: 0.7168397307395935
+
+description: Throw pillow
+mid: /m/030zjl
+score: 0.704549252986908
+topicality: 0.704549252986908
+
+description: Ceiling
+mid: /m/03gfsp
+score: 0.7041855454444885
+topicality: 0.7041855454444885
+
+description: Bedroom
+mid: /m/02_58j
+score: 0.6979737281799316
+topicality: 0.6979737281799316
+
+description: House
+mid: /m/03jm5
+score: 0.691595733165741
+topicality: 0.691595733165741
+
+description: Coffee table
+mid: /m/078n6m
+score: 0.6878020763397217
+topicality: 0.6878020763397217
+
+description: Room
+mid: /m/06ht1
+score: 0.6790796518325806
+topicality: 0.6790796518325806
+
+description: Hardwood
+mid: /m/020g49
+score: 0.677698016166687
+topicality: 0.677698016166687
+
+description: Bed sheet
+mid: /m/04mygm
+score: 0.6708865761756897
+topicality: 0.6708865761756897
+
+description: Apartment
+mid: /m/01nblt
+score: 0.6548669934272766
+topicality: 0.6548669934272766
+
+description: Sofa bed
+mid: /m/03m3pdh
+score: 0.6542704105377197
+topicality: 0.6542704105377197
+
+description: Home
+mid: /m/01l0mw
+score: 0.631087601184845
+topicality: 0.631087601184845
+
+description: Interior design
+mid: /m/0h8nzzj
+score: 0.6018816232681274
+topicality: 0.6018816232681274
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.5579847097396851
+topicality: 0.5579847097396851
+
+description: Lampshade
+mid: /m/081lvg
+score: 0.5472504496574402
+topicality: 0.5472504496574402
+
+description: Nightstand
+mid: /m/02z51p
+score: 0.5407697558403015
+topicality: 0.5407697558403015
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.536575973033905
+topicality: 0.536575973033905
+
+description: Mattress
+mid: /m/03dg8j
+score: 0.5222988724708557
+topicality: 0.5222988724708557
+
+description: Boutique hotel
+mid: /m/05j0rg
+score: 0.5204907655715942
+topicality: 0.5204907655715942
+
+description: Window treatment
+mid: /m/0n42jw2
+score: 0.5178815126419067
+topicality: 0.5178815126419067
+
+description: Painting
+mid: /m/05qdh
+score: 0.5172623991966248
+topicality: 0.5172623991966248
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.5100754499435425
+topicality: 0.5100754499435425
+
+description: Light fixture
+mid: /m/08jpwt
+score: 0.5084037184715271
+topicality: 0.5084037184715271
+

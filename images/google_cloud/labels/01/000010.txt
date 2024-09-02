@@ -1,0 +1,110 @@
+description: Smile
+mid: /m/019nj4
+score: 0.9140018820762634
+topicality: 0.9140018820762634
+
+description: Vision care
+mid: /m/0h8jxfl
+score: 0.8771970272064209
+topicality: 0.8771970272064209
+
+description: Eyewear
+mid: /m/0j272k5
+score: 0.8278067708015442
+topicality: 0.8278067708015442
+
+description: Public space
+mid: /m/01lqfm
+score: 0.8065645694732666
+topicality: 0.8065645694732666
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.7627111077308655
+topicality: 0.7627111077308655
+
+description: Crowd
+mid: /m/03qtwd
+score: 0.753752589225769
+topicality: 0.753752589225769
+
+description: Event
+mid: /m/081pkj
+score: 0.7421755790710449
+topicality: 0.7421755790710449
+
+description: Recreation
+mid: /m/06bm2
+score: 0.7325151562690735
+topicality: 0.7325151562690735
+
+description: Tie
+mid: /m/01rkbr
+score: 0.7132553458213806
+topicality: 0.7132553458213806
+
+description: Leisure
+mid: /m/04g3r
+score: 0.6752211451530457
+topicality: 0.6752211451530457
+
+description: Audience
+mid: /m/033lpr
+score: 0.6742430329322815
+topicality: 0.6742430329322815
+
+description: Team
+mid: /m/011l78
+score: 0.6456801295280457
+topicality: 0.6456801295280457
+
+description: Hat
+mid: /m/02dl1y
+score: 0.6322001814842224
+topicality: 0.6322001814842224
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.6160666346549988
+topicality: 0.6160666346549988
+
+description: T-shirt
+mid: /m/013s93
+score: 0.5978487133979797
+topicality: 0.5978487133979797
+
+description: Tourism
+mid: /m/07bxq
+score: 0.596538245677948
+topicality: 0.596538245677948
+
+description: Tradition
+mid: /m/07djv
+score: 0.5903801321983337
+topicality: 0.5903801321983337
+
+description: Hoodie
+mid: /m/05bhnr
+score: 0.5770691633224487
+topicality: 0.5770691633224487
+
+description: Sitting
+mid: /m/015c4z
+score: 0.5551350116729736
+topicality: 0.5551350116729736
+
+description: Night
+mid: /m/01d74z
+score: 0.5274451375007629
+topicality: 0.5274451375007629
+
+description: Child
+mid: /m/0ytgt
+score: 0.5261011123657227
+topicality: 0.5261011123657227
+
+description: Uniform
+mid: /m/09jfs
+score: 0.5069841742515564
+topicality: 0.5069841742515564
+

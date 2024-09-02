@@ -1,0 +1,80 @@
+description: Hair
+mid: /m/03q69
+score: 0.983036458492279
+topicality: 0.983036458492279
+
+description: Outerwear
+mid: /m/047vlmn
+score: 0.9523913264274597
+topicality: 0.9523913264274597
+
+description: Organ
+mid: /m/013y0j
+score: 0.9084045886993408
+topicality: 0.9084045886993408
+
+description: Event
+mid: /m/081pkj
+score: 0.7442948222160339
+topicality: 0.7442948222160339
+
+description: Crowd
+mid: /m/03qtwd
+score: 0.7325971722602844
+topicality: 0.7325971722602844
+
+description: T-shirt
+mid: /m/013s93
+score: 0.6779828071594238
+topicality: 0.6779828071594238
+
+description: Room
+mid: /m/06ht1
+score: 0.6535547971725464
+topicality: 0.6535547971725464
+
+description: Audience
+mid: /m/033lpr
+score: 0.6532559394836426
+topicality: 0.6532559394836426
+
+description: Performance
+mid: /m/01gq53
+score: 0.6450163125991821
+topicality: 0.6450163125991821
+
+description: Night
+mid: /m/01d74z
+score: 0.5630082488059998
+topicality: 0.5630082488059998
+
+description: Jewellery
+mid: /m/0404d
+score: 0.5532888770103455
+topicality: 0.5532888770103455
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.5528578162193298
+topicality: 0.5528578162193298
+
+description: Suit
+mid: /m/01xyhv
+score: 0.5352628231048584
+topicality: 0.5352628231048584
+
+description: Convention
+mid: /m/09cynt
+score: 0.5335853695869446
+topicality: 0.5335853695869446
+
+description: Conversation
+mid: /m/01h8n0
+score: 0.5226282477378845
+topicality: 0.5226282477378845
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.511929452419281
+topicality: 0.511929452419281
+

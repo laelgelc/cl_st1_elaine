@@ -1,0 +1,110 @@
+description: Product
+mid: /m/01jwgf
+score: 0.9075738191604614
+topicality: 0.9075738191604614
+
+description: Organism
+mid: /m/05nnm
+score: 0.8607673048973083
+topicality: 0.8607673048973083
+
+description: Font
+mid: /m/03gq5hm
+score: 0.838819682598114
+topicality: 0.838819682598114
+
+description: Line
+mid: /m/03scnj
+score: 0.8155159950256348
+topicality: 0.8155159950256348
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.778387725353241
+topicality: 0.778387725353241
+
+description: Technology
+mid: /m/07c1v
+score: 0.7514920830726624
+topicality: 0.7514920830726624
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7205725312232971
+topicality: 0.7205725312232971
+
+description: Brand
+mid: /m/01cd9
+score: 0.6995910406112671
+topicality: 0.6995910406112671
+
+description: Advertising
+mid: /m/011s0
+score: 0.6957666277885437
+topicality: 0.6957666277885437
+
+description: Web page
+mid: /m/086nh
+score: 0.6784669160842896
+topicality: 0.6784669160842896
+
+description: Logo
+mid: /m/0dwx7
+score: 0.6705000996589661
+topicality: 0.6705000996589661
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.6610780358314514
+topicality: 0.6610780358314514
+
+description: Graphic design
+mid: /m/03c31
+score: 0.6368162035942078
+topicality: 0.6368162035942078
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6244222521781921
+topicality: 0.6244222521781921
+
+description: Website
+mid: /m/085n4
+score: 0.6157283186912537
+topicality: 0.6157283186912537
+
+description: T-shirt
+mid: /m/013s93
+score: 0.6144090890884399
+topicality: 0.6144090890884399
+
+description: Machine
+mid: /m/0dkw5
+score: 0.5988171100616455
+topicality: 0.5988171100616455
+
+description: Musical instrument
+mid: /m/04szw
+score: 0.5749061107635498
+topicality: 0.5749061107635498
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.5700448751449585
+topicality: 0.5700448751449585
+
+description: Art
+mid: /m/0jjw
+score: 0.5563050508499146
+topicality: 0.5563050508499146
+
+description: Transport
+mid: /m/07bsy
+score: 0.5236503481864929
+topicality: 0.5236503481864929
+
+description: Multimedia
+mid: /m/0541p
+score: 0.5154315829277039
+topicality: 0.5154315829277039
+

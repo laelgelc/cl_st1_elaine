@@ -1,0 +1,30 @@
+description: Font
+mid: /m/03gq5hm
+score: 0.7699989080429077
+topicality: 0.7699989080429077
+
+description: Logo
+mid: /m/0dwx7
+score: 0.6730508804321289
+topicality: 0.6730508804321289
+
+description: Brand
+mid: /m/01cd9
+score: 0.6588965654373169
+topicality: 0.6588965654373169
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6209333539009094
+topicality: 0.6209333539009094
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.5169830918312073
+topicality: 0.5169830918312073
+
+description: Trademark
+mid: /m/07d0f
+score: 0.5107090473175049
+topicality: 0.5107090473175049
+

@@ -1,0 +1,80 @@
+description: Font
+mid: /m/03gq5hm
+score: 0.8406673073768616
+topicality: 0.8406673073768616
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.6918885111808777
+topicality: 0.6918885111808777
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.6840078830718994
+topicality: 0.6840078830718994
+
+description: Circle
+mid: /m/01vkl
+score: 0.6760060787200928
+topicality: 0.6760060787200928
+
+description: Pattern
+mid: /m/0hwky
+score: 0.6636720299720764
+topicality: 0.6636720299720764
+
+description: Brand
+mid: /m/01cd9
+score: 0.6533430814743042
+topicality: 0.6533430814743042
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.627310037612915
+topicality: 0.627310037612915
+
+description: Number
+mid: /m/05fwb
+score: 0.6246697306632996
+topicality: 0.6246697306632996
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6229742169380188
+topicality: 0.6229742169380188
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5840254426002502
+topicality: 0.5840254426002502
+
+description: Multimedia
+mid: /m/0541p
+score: 0.5735899806022644
+topicality: 0.5735899806022644
+
+description: Logo
+mid: /m/0dwx7
+score: 0.5499417781829834
+topicality: 0.5499417781829834
+
+description: Audio equipment
+mid: /m/01yttv
+score: 0.5375723838806152
+topicality: 0.5375723838806152
+
+description: Multimedia software
+mid: /m/0w88xth
+score: 0.5246801376342773
+topicality: 0.5246801376342773
+
+description: Machine
+mid: /m/0dkw5
+score: 0.5243286490440369
+topicality: 0.5243286490440369
+
+description: Advertising
+mid: /m/011s0
+score: 0.5057268142700195
+topicality: 0.5057268142700195
+

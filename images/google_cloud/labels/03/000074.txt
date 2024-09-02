@@ -1,0 +1,60 @@
+description: Rectangle
+mid: /m/0j62f
+score: 0.842120885848999
+topicality: 0.842120885848999
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8276123404502869
+topicality: 0.8276123404502869
+
+description: Parallel
+mid: /m/030zfn
+score: 0.785041093826294
+topicality: 0.785041093826294
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.752967357635498
+topicality: 0.752967357635498
+
+description: Pattern
+mid: /m/0hwky
+score: 0.673229455947876
+topicality: 0.673229455947876
+
+description: Symmetry
+mid: /m/0f28m
+score: 0.6597250699996948
+topicality: 0.6597250699996948
+
+description: Brand
+mid: /m/01cd9
+score: 0.6337929964065552
+topicality: 0.6337929964065552
+
+description: Circle
+mid: /m/01vkl
+score: 0.6304764151573181
+topicality: 0.6304764151573181
+
+description: Diagram
+mid: /m/02v0m2
+score: 0.6217955946922302
+topicality: 0.6217955946922302
+
+description: Logo
+mid: /m/0dwx7
+score: 0.6033135056495667
+topicality: 0.6033135056495667
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5901467204093933
+topicality: 0.5901467204093933
+
+description: Slope
+mid: /m/078hm
+score: 0.5212706923484802
+topicality: 0.5212706923484802
+

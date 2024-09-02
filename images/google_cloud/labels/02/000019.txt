@@ -1,0 +1,165 @@
+description: Water
+mid: /m/0838f
+score: 0.9631851315498352
+topicality: 0.9631851315498352
+
+description: Fireworks
+mid: /m/0g6b5
+score: 0.9428262710571289
+topicality: 0.9428262710571289
+
+description: Plant
+mid: /m/05s2s
+score: 0.9410513639450073
+topicality: 0.9410513639450073
+
+description: Sky
+mid: /m/01bqvp
+score: 0.8631458878517151
+topicality: 0.8631458878517151
+
+description: Organism
+mid: /m/05nnm
+score: 0.8577530980110168
+topicality: 0.8577530980110168
+
+description: Pink
+mid: /m/01fklc
+score: 0.8365477323532104
+topicality: 0.8365477323532104
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7890024185180664
+topicality: 0.7890024185180664
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.7735990285873413
+topicality: 0.7735990285873413
+
+description: Recreation
+mid: /m/06bm2
+score: 0.7564764022827148
+topicality: 0.7564764022827148
+
+description: Event
+mid: /m/081pkj
+score: 0.7399787306785583
+topicality: 0.7399787306785583
+
+description: Darkness
+mid: /m/01kyr8
+score: 0.728225827217102
+topicality: 0.728225827217102
+
+description: Holiday
+mid: /m/03gkl
+score: 0.7255970239639282
+topicality: 0.7255970239639282
+
+description: Pattern
+mid: /m/0hwky
+score: 0.7254083156585693
+topicality: 0.7254083156585693
+
+description: Space
+mid: /m/06wqb
+score: 0.7239680886268616
+topicality: 0.7239680886268616
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7211037278175354
+topicality: 0.7211037278175354
+
+description: Close-up
+mid: /m/02cqfm
+score: 0.7052762508392334
+topicality: 0.7052762508392334
+
+description: New year
+mid: /m/05fdr
+score: 0.6817458271980286
+topicality: 0.6817458271980286
+
+description: Midnight
+mid: /m/01kv7h
+score: 0.6748529672622681
+topicality: 0.6748529672622681
+
+description: New year's eve
+mid: /m/01pl3y
+score: 0.6715253591537476
+topicality: 0.6715253591537476
+
+description: Flower
+mid: /m/0c9ph5
+score: 0.6686654686927795
+topicality: 0.6686654686927795
+
+description: Art
+mid: /m/0jjw
+score: 0.6675909757614136
+topicality: 0.6675909757614136
+
+description: Macro photography
+mid: /m/03rbf6
+score: 0.6673475503921509
+topicality: 0.6673475503921509
+
+description: Petal
+mid: /m/016q19
+score: 0.6573413610458374
+topicality: 0.6573413610458374
+
+description: Diwali
+mid: /m/019fpj
+score: 0.6526222825050354
+topicality: 0.6526222825050354
+
+description: New Years Day
+mid: /m/015h7g
+score: 0.6450793147087097
+topicality: 0.6450793147087097
+
+description: Tree
+mid: /m/07j7r
+score: 0.6373869180679321
+topicality: 0.6373869180679321
+
+description: Carmine
+mid: /m/05t_yt
+score: 0.604922890663147
+topicality: 0.604922890663147
+
+description: Festival
+mid: /m/0hr5k
+score: 0.6041913032531738
+topicality: 0.6041913032531738
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.6038831472396851
+topicality: 0.6038831472396851
+
+description: Night
+mid: /m/01d74z
+score: 0.5848467946052551
+topicality: 0.5848467946052551
+
+description: Chinese new year
+mid: /m/012m47
+score: 0.5805849432945251
+topicality: 0.5805849432945251
+
+description: Circle
+mid: /m/01vkl
+score: 0.5777037739753723
+topicality: 0.5777037739753723
+
+description: Fashion accessory
+mid: /m/0463sg
+score: 0.5472697019577026
+topicality: 0.5472697019577026
+

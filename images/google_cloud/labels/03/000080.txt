@@ -1,0 +1,60 @@
+description: Smile
+mid: /m/019nj4
+score: 0.8595978617668152
+topicality: 0.8595978617668152
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.8084014654159546
+topicality: 0.8084014654159546
+
+description: T-shirt
+mid: /m/013s93
+score: 0.7431856989860535
+topicality: 0.7431856989860535
+
+description: Event
+mid: /m/081pkj
+score: 0.7418469190597534
+topicality: 0.7418469190597534
+
+description: Crowd
+mid: /m/03qtwd
+score: 0.662203311920166
+topicality: 0.662203311920166
+
+description: Performance
+mid: /m/01gq53
+score: 0.6587320566177368
+topicality: 0.6587320566177368
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.6450372934341431
+topicality: 0.6450372934341431
+
+description: Performing arts
+mid: /m/05qjc
+score: 0.618011474609375
+topicality: 0.618011474609375
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.6072242259979248
+topicality: 0.6072242259979248
+
+description: Audience
+mid: /m/033lpr
+score: 0.5837519764900208
+topicality: 0.5837519764900208
+
+description: Auditorium
+mid: /m/039l3v
+score: 0.5588026642799377
+topicality: 0.5588026642799377
+
+description: Night
+mid: /m/01d74z
+score: 0.5359143018722534
+topicality: 0.5359143018722534
+

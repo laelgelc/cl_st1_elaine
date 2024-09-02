@@ -1,0 +1,130 @@
+description: Building
+mid: /m/0cgh4
+score: 0.9289381504058838
+topicality: 0.9289381504058838
+
+description: Interior design
+mid: /m/02rfdq
+score: 0.8529158234596252
+topicality: 0.8529158234596252
+
+description: Comfort
+mid: /m/08xgn7
+score: 0.8522234559059143
+topicality: 0.8522234559059143
+
+description: Curtain
+mid: /m/03rszm
+score: 0.8488627076148987
+topicality: 0.8488627076148987
+
+description: Couch
+mid: /m/02crq1
+score: 0.8249562382698059
+topicality: 0.8249562382698059
+
+description: Wood
+mid: /m/083vt
+score: 0.7926433086395264
+topicality: 0.7926433086395264
+
+description: Living room
+mid: /m/03f6tq
+score: 0.7698438763618469
+topicality: 0.7698438763618469
+
+description: Ceiling
+mid: /m/03gfsp
+score: 0.750119149684906
+topicality: 0.750119149684906
+
+description: Pillow
+mid: /m/034c16
+score: 0.6992343068122864
+topicality: 0.6992343068122864
+
+description: Event
+mid: /m/081pkj
+score: 0.6852967739105225
+topicality: 0.6852967739105225
+
+description: House
+mid: /m/03jm5
+score: 0.6587411761283875
+topicality: 0.6587411761283875
+
+description: Flooring
+mid: /m/01c34b
+score: 0.6557789444923401
+topicality: 0.6557789444923401
+
+description: Room
+mid: /m/06ht1
+score: 0.6190553903579712
+topicality: 0.6190553903579712
+
+description: Bedroom
+mid: /m/02_58j
+score: 0.6036072969436646
+topicality: 0.6036072969436646
+
+description: Leisure
+mid: /m/04g3r
+score: 0.5895164012908936
+topicality: 0.5895164012908936
+
+description: Font
+mid: /m/03gq5hm
+score: 0.5857263207435608
+topicality: 0.5857263207435608
+
+description: Window treatment
+mid: /m/0n42jw2
+score: 0.5767275094985962
+topicality: 0.5767275094985962
+
+description: Linens
+mid: /m/06httj
+score: 0.5645151138305664
+topicality: 0.5645151138305664
+
+description: Bedding
+mid: /m/03mcr3
+score: 0.5564946532249451
+topicality: 0.5564946532249451
+
+description: Brand
+mid: /m/01cd9
+score: 0.5475826263427734
+topicality: 0.5475826263427734
+
+description: Chair
+mid: /m/01mzpv
+score: 0.5451561212539673
+topicality: 0.5451561212539673
+
+description: Automotive design
+mid: /m/068mqj
+score: 0.5438713431358337
+topicality: 0.5438713431358337
+
+description: Presentation
+mid: /m/02y3rj
+score: 0.5433933138847351
+topicality: 0.5433933138847351
+
+description: Daylighting
+mid: /m/0k2n5
+score: 0.5266994833946228
+topicality: 0.5266994833946228
+
+description: Table
+mid: /m/04bcr3
+score: 0.522328794002533
+topicality: 0.522328794002533
+
+description: Apartment
+mid: /m/01nblt
+score: 0.5194482207298279
+topicality: 0.5194482207298279
+

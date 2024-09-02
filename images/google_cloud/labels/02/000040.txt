@@ -1,0 +1,165 @@
+description: Output device
+mid: /m/044_87
+score: 0.8974658250808716
+topicality: 0.8974658250808716
+
+description: Building
+mid: /m/0cgh4
+score: 0.8687767386436462
+topicality: 0.8687767386436462
+
+description: Interior design
+mid: /m/02rfdq
+score: 0.8557992577552795
+topicality: 0.8557992577552795
+
+description: Window
+mid: /m/0d4v4
+score: 0.8284980058670044
+topicality: 0.8284980058670044
+
+description: Flooring
+mid: /m/01c34b
+score: 0.7868990302085876
+topicality: 0.7868990302085876
+
+description: Automotive design
+mid: /m/068mqj
+score: 0.768355131149292
+topicality: 0.768355131149292
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7616578936576843
+topicality: 0.7616578936576843
+
+description: Living room
+mid: /m/03f6tq
+score: 0.7313355207443237
+topicality: 0.7313355207443237
+
+description: Ceiling
+mid: /m/03gfsp
+score: 0.7175006866455078
+topicality: 0.7175006866455078
+
+description: Wood
+mid: /m/083vt
+score: 0.6969531178474426
+topicality: 0.6969531178474426
+
+description: Shade
+mid: /m/0hndl
+score: 0.6868880987167358
+topicality: 0.6868880987167358
+
+description: Office chair
+mid: /m/08q1xp
+score: 0.6759868860244751
+topicality: 0.6759868860244751
+
+description: Machine
+mid: /m/0dkw5
+score: 0.6755858659744263
+topicality: 0.6755858659744263
+
+description: Shelving
+mid: /m/0h8n982
+score: 0.6665050387382507
+topicality: 0.6665050387382507
+
+description: Room
+mid: /m/06ht1
+score: 0.6523445248603821
+topicality: 0.6523445248603821
+
+description: Brand
+mid: /m/01cd9
+score: 0.6419426202774048
+topicality: 0.6419426202774048
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.63399738073349
+topicality: 0.63399738073349
+
+description: Chair
+mid: /m/01mzpv
+score: 0.6213345527648926
+topicality: 0.6213345527648926
+
+description: Multimedia
+mid: /m/0541p
+score: 0.6061496138572693
+topicality: 0.6061496138572693
+
+description: Kitchen
+mid: /m/0d4wf
+score: 0.5891671776771545
+topicality: 0.5891671776771545
+
+description: Hardwood
+mid: /m/020g49
+score: 0.5886626243591309
+topicality: 0.5886626243591309
+
+description: Metal
+mid: /m/04t7l
+score: 0.5873911380767822
+topicality: 0.5873911380767822
+
+description: Daylighting
+mid: /m/0k2n5
+score: 0.5726612210273743
+topicality: 0.5726612210273743
+
+description: Luxury vehicle
+mid: /m/01lcwm
+score: 0.5560609698295593
+topicality: 0.5560609698295593
+
+description: Automotive exterior
+mid: /m/0h8ls87
+score: 0.5468587875366211
+topicality: 0.5468587875366211
+
+description: Display device
+mid: /m/029zz6
+score: 0.5463424921035767
+topicality: 0.5463424921035767
+
+description: Apartment
+mid: /m/01nblt
+score: 0.5414671301841736
+topicality: 0.5414671301841736
+
+description: Kitchen appliance
+mid: /m/0h99cwc
+score: 0.5172842741012573
+topicality: 0.5172842741012573
+
+description: Home appliance
+mid: /m/019dx1
+score: 0.5158959031105042
+topicality: 0.5158959031105042
+
+description: Presentation
+mid: /m/02y3rj
+score: 0.5125558376312256
+topicality: 0.5125558376312256
+
+description: Television
+mid: /m/07c52
+score: 0.5109667778015137
+topicality: 0.5109667778015137
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.5079522132873535
+topicality: 0.5079522132873535
+
+description: Glass
+mid: /m/039jq
+score: 0.5012804269790649
+topicality: 0.5012804269790649
+

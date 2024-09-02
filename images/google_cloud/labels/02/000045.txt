@@ -1,0 +1,120 @@
+description: Furniture
+mid: /m/0c_jw
+score: 0.9498410224914551
+topicality: 0.9498410224914551
+
+description: Property
+mid: /m/05wrt
+score: 0.9434893131256104
+topicality: 0.9434893131256104
+
+description: Table
+mid: /m/04bcr3
+score: 0.9130122065544128
+topicality: 0.9130122065544128
+
+description: Chair
+mid: /m/01mzpv
+score: 0.8902245759963989
+topicality: 0.8902245759963989
+
+description: Interior design
+mid: /m/02rfdq
+score: 0.8660144209861755
+topicality: 0.8660144209861755
+
+description: Fixture
+mid: /m/04wnmd
+score: 0.8632322549819946
+topicality: 0.8632322549819946
+
+description: Flooring
+mid: /m/01c34b
+score: 0.8200200796127319
+topicality: 0.8200200796127319
+
+description: Floor
+mid: /m/0l7_8
+score: 0.8154687881469727
+topicality: 0.8154687881469727
+
+description: Ceiling
+mid: /m/03gfsp
+score: 0.752553403377533
+topicality: 0.752553403377533
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.7387337684631348
+topicality: 0.7387337684631348
+
+description: Wood
+mid: /m/083vt
+score: 0.7364887595176697
+topicality: 0.7364887595176697
+
+description: Desk
+mid: /m/01y9k5
+score: 0.7135280966758728
+topicality: 0.7135280966758728
+
+description: Armrest
+mid: /m/0fy6hp
+score: 0.6893050074577332
+topicality: 0.6893050074577332
+
+description: Office chair
+mid: /m/08q1xp
+score: 0.6775959730148315
+topicality: 0.6775959730148315
+
+description: Room
+mid: /m/06ht1
+score: 0.6581097841262817
+topicality: 0.6581097841262817
+
+description: Building
+mid: /m/0cgh4
+score: 0.5993691682815552
+topicality: 0.5993691682815552
+
+description: Font
+mid: /m/03gq5hm
+score: 0.5756590962409973
+topicality: 0.5756590962409973
+
+description: Brand
+mid: /m/01cd9
+score: 0.5671831965446472
+topicality: 0.5671831965446472
+
+description: Daylighting
+mid: /m/0k2n5
+score: 0.5609102845191956
+topicality: 0.5609102845191956
+
+description: Living room
+mid: /m/03f6tq
+score: 0.5589759349822998
+topicality: 0.5589759349822998
+
+description: Light fixture
+mid: /m/08jpwt
+score: 0.5279163122177124
+topicality: 0.5279163122177124
+
+description: Window
+mid: /m/0d4v4
+score: 0.527152955532074
+topicality: 0.527152955532074
+
+description: Office
+mid: /m/021sj1
+score: 0.516494870185852
+topicality: 0.516494870185852
+
+description: Hardwood
+mid: /m/020g49
+score: 0.5028682351112366
+topicality: 0.5028682351112366
+

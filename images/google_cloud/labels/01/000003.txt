@@ -1,0 +1,100 @@
+description: Purple
+mid: /m/09ggk
+score: 0.8965698480606079
+topicality: 0.8965698480606079
+
+description: Flash photography
+mid: /g/1tr17zw8
+score: 0.8850530982017517
+topicality: 0.8850530982017517
+
+description: Fashion
+mid: /m/032tl
+score: 0.8831617832183838
+topicality: 0.8831617832183838
+
+description: Sleeve
+mid: /m/062581
+score: 0.8724475502967834
+topicality: 0.8724475502967834
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7802585959434509
+topicality: 0.7802585959434509
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7630376219749451
+topicality: 0.7630376219749451
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.7482080459594727
+topicality: 0.7482080459594727
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.7322279214859009
+topicality: 0.7322279214859009
+
+description: Event
+mid: /m/081pkj
+score: 0.7137281894683838
+topicality: 0.7137281894683838
+
+description: Jewellery
+mid: /m/0404d
+score: 0.7079504728317261
+topicality: 0.7079504728317261
+
+description: Formal wear
+mid: /m/02w3_2
+score: 0.6956045627593994
+topicality: 0.6956045627593994
+
+description: Font
+mid: /m/03gq5hm
+score: 0.6880347728729248
+topicality: 0.6880347728729248
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.6697927117347717
+topicality: 0.6697927117347717
+
+description: Darkness
+mid: /m/01kyr8
+score: 0.6621492505073547
+topicality: 0.6621492505073547
+
+description: T-shirt
+mid: /m/013s93
+score: 0.6209883093833923
+topicality: 0.6209883093833923
+
+description: Portrait photography
+mid: /m/0chml9
+score: 0.5612128376960754
+topicality: 0.5612128376960754
+
+description: Night
+mid: /m/01d74z
+score: 0.5598733425140381
+topicality: 0.5598733425140381
+
+description: Room
+mid: /m/06ht1
+score: 0.5332287549972534
+topicality: 0.5332287549972534
+
+description: Sitting
+mid: /m/015c4z
+score: 0.5291911363601685
+topicality: 0.5291911363601685
+
+description: Necklace
+mid: /m/01llwg
+score: 0.5117475390434265
+topicality: 0.5117475390434265
+

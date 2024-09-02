@@ -1,0 +1,135 @@
+description: Furniture
+mid: /m/0c_jw
+score: 0.9385504126548767
+topicality: 0.9385504126548767
+
+description: Chair
+mid: /m/01mzpv
+score: 0.88396817445755
+topicality: 0.88396817445755
+
+description: Table
+mid: /m/04bcr3
+score: 0.8796336650848389
+topicality: 0.8796336650848389
+
+description: Interior design
+mid: /m/02rfdq
+score: 0.8590871095657349
+topicality: 0.8590871095657349
+
+description: Building
+mid: /m/0cgh4
+score: 0.8460626602172852
+topicality: 0.8460626602172852
+
+description: Living room
+mid: /m/03f6tq
+score: 0.8351859450340271
+topicality: 0.8351859450340271
+
+description: Flooring
+mid: /m/01c34b
+score: 0.8191912770271301
+topicality: 0.8191912770271301
+
+description: Floor
+mid: /m/0l7_8
+score: 0.8168006539344788
+topicality: 0.8168006539344788
+
+description: Window
+mid: /m/0d4v4
+score: 0.7911755442619324
+topicality: 0.7911755442619324
+
+description: Real estate
+mid: /m/023907r
+score: 0.7895068526268005
+topicality: 0.7895068526268005
+
+description: Armrest
+mid: /m/0fy6hp
+score: 0.7260544300079346
+topicality: 0.7260544300079346
+
+description: Space
+mid: /m/06wqb
+score: 0.7181029319763184
+topicality: 0.7181029319763184
+
+description: Event
+mid: /m/081pkj
+score: 0.7142100930213928
+topicality: 0.7142100930213928
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.7042165398597717
+topicality: 0.7042165398597717
+
+description: Ceiling
+mid: /m/03gfsp
+score: 0.695193886756897
+topicality: 0.695193886756897
+
+description: House
+mid: /m/03jm5
+score: 0.6893211603164673
+topicality: 0.6893211603164673
+
+description: Room
+mid: /m/06ht1
+score: 0.6807123422622681
+topicality: 0.6807123422622681
+
+description: Home
+mid: /m/01l0mw
+score: 0.6393182277679443
+topicality: 0.6393182277679443
+
+description: Animation
+mid: /m/0hcr
+score: 0.6348977088928223
+topicality: 0.6348977088928223
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.6160712242126465
+topicality: 0.6160712242126465
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.5937235951423645
+topicality: 0.5937235951423645
+
+description: Brand
+mid: /m/01cd9
+score: 0.5655128359794617
+topicality: 0.5655128359794617
+
+description: studio couch
+mid: /m/026qbn5
+score: 0.5353422164916992
+topicality: 0.5353422164916992
+
+description: Shade
+mid: /m/0hndl
+score: 0.5320360064506531
+topicality: 0.5320360064506531
+
+description: Comfort
+mid: /m/08xgn7
+score: 0.5316101312637329
+topicality: 0.5316101312637329
+
+description: Font
+mid: /m/03gq5hm
+score: 0.5224120020866394
+topicality: 0.5224120020866394
+
+description: Leisure
+mid: /m/04g3r
+score: 0.5150883793830872
+topicality: 0.5150883793830872
+

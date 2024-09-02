@@ -1,0 +1,175 @@
+description: Plant
+mid: /m/05s2s
+score: 0.8845639228820801
+topicality: 0.8845639228820801
+
+description: Organism
+mid: /m/05nnm
+score: 0.8630842566490173
+topicality: 0.8630842566490173
+
+description: Tableware
+mid: /m/04brg2
+score: 0.8364329934120178
+topicality: 0.8364329934120178
+
+description: Hat
+mid: /m/02dl1y
+score: 0.8355767130851746
+topicality: 0.8355767130851746
+
+description: Leisure
+mid: /m/04g3r
+score: 0.832259476184845
+topicality: 0.832259476184845
+
+description: Community
+mid: /m/01qls
+score: 0.8093620538711548
+topicality: 0.8093620538711548
+
+description: Art
+mid: /m/0jjw
+score: 0.8005455136299133
+topicality: 0.8005455136299133
+
+description: Table
+mid: /m/04bcr3
+score: 0.7987037897109985
+topicality: 0.7987037897109985
+
+description: Adaptation
+mid: /m/03r_vp
+score: 0.793830931186676
+topicality: 0.793830931186676
+
+description: Tree
+mid: /m/07j7r
+score: 0.7832981944084167
+topicality: 0.7832981944084167
+
+description: Recreation
+mid: /m/06bm2
+score: 0.7712847590446472
+topicality: 0.7712847590446472
+
+description: Urban design
+mid: /m/0d9wj
+score: 0.7632742524147034
+topicality: 0.7632742524147034
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.7568091750144958
+topicality: 0.7568091750144958
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7542292475700378
+topicality: 0.7542292475700378
+
+description: Chair
+mid: /m/01mzpv
+score: 0.7393071055412292
+topicality: 0.7393071055412292
+
+description: Event
+mid: /m/081pkj
+score: 0.7289731502532959
+topicality: 0.7289731502532959
+
+description: Display device
+mid: /m/029zz6
+score: 0.723276674747467
+topicality: 0.723276674747467
+
+description: Games
+mid: /m/03bt1gh
+score: 0.702361524105072
+topicality: 0.702361524105072
+
+description: Collage
+mid: /m/01bsxb
+score: 0.695813775062561
+topicality: 0.695813775062561
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.687433123588562
+topicality: 0.687433123588562
+
+description: Travel
+mid: /m/014dsx
+score: 0.6521828174591064
+topicality: 0.6521828174591064
+
+description: Animation
+mid: /m/0hcr
+score: 0.6455692648887634
+topicality: 0.6455692648887634
+
+description: Suit
+mid: /m/01xyhv
+score: 0.635106086730957
+topicality: 0.635106086730957
+
+description: Room
+mid: /m/06ht1
+score: 0.632862389087677
+topicality: 0.632862389087677
+
+description: Landscape
+mid: /m/025s3q0
+score: 0.6194596290588379
+topicality: 0.6194596290588379
+
+description: Indoor games and sports
+mid: /m/0b42l9
+score: 0.6119818091392517
+topicality: 0.6119818091392517
+
+description: Multimedia
+mid: /m/0541p
+score: 0.6118324398994446
+topicality: 0.6118324398994446
+
+description: Advertising
+mid: /m/011s0
+score: 0.5892736911773682
+topicality: 0.5892736911773682
+
+description: Play
+mid: /m/06wtgq
+score: 0.5799704790115356
+topicality: 0.5799704790115356
+
+description: Multimedia software
+mid: /m/0w88xth
+score: 0.5774210691452026
+topicality: 0.5774210691452026
+
+description: Sport venue
+mid: /m/0bmgjqz
+score: 0.570681095123291
+topicality: 0.570681095123291
+
+description: Website
+mid: /m/085n4
+score: 0.5484264492988586
+topicality: 0.5484264492988586
+
+description: Recreation room
+mid: /m/03f6tc
+score: 0.5389301776885986
+topicality: 0.5389301776885986
+
+description: Pc game
+mid: /m/04tr8s
+score: 0.5322133302688599
+topicality: 0.5322133302688599
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5141817927360535
+topicality: 0.5141817927360535
+

@@ -1,0 +1,90 @@
+description: Beard
+mid: /m/015h_t
+score: 0.8765204548835754
+topicality: 0.8765204548835754
+
+description: Happy
+mid: /m/016pp7
+score: 0.8340007662773132
+topicality: 0.8340007662773132
+
+description: Wrinkle
+mid: /m/02_x63
+score: 0.7921911478042603
+topicality: 0.7921911478042603
+
+description: Facial hair
+mid: /m/0ds5b
+score: 0.750369668006897
+topicality: 0.750369668006897
+
+description: Moustache
+mid: /m/0bby24z
+score: 0.7260572910308838
+topicality: 0.7260572910308838
+
+description: Tribe
+mid: /m/0cbtm
+score: 0.71805340051651
+topicality: 0.71805340051651
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.6880679726600647
+topicality: 0.6880679726600647
+
+description: Event
+mid: /m/081pkj
+score: 0.6828868985176086
+topicality: 0.6828868985176086
+
+description: Chest
+mid: /m/0dzdr
+score: 0.6276898384094238
+topicality: 0.6276898384094238
+
+description: Photo caption
+mid: /m/0b75wg4
+score: 0.617318332195282
+topicality: 0.617318332195282
+
+description: Art
+mid: /m/0jjw
+score: 0.6116575598716736
+topicality: 0.6116575598716736
+
+description: Fictional character
+mid: /m/02h7lkt
+score: 0.6004601716995239
+topicality: 0.6004601716995239
+
+description: Smile
+mid: /m/019nj4
+score: 0.5807349681854248
+topicality: 0.5807349681854248
+
+description: Flesh
+mid: /m/02p16m6
+score: 0.5767279267311096
+topicality: 0.5767279267311096
+
+description: Tradition
+mid: /m/07djv
+score: 0.5522450804710388
+topicality: 0.5522450804710388
+
+description: Soil
+mid: /m/09dv7
+score: 0.5353996753692627
+topicality: 0.5353996753692627
+
+description: Hat
+mid: /m/02dl1y
+score: 0.5253902077674866
+topicality: 0.5253902077674866
+
+description: History
+mid: /m/03g3w
+score: 0.5232125520706177
+topicality: 0.5232125520706177
+

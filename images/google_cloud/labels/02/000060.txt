@@ -1,0 +1,175 @@
+description: Tableware
+mid: /m/04brg2
+score: 0.9450082778930664
+topicality: 0.9450082778930664
+
+description: Recipe
+mid: /m/0p57p
+score: 0.83924400806427
+topicality: 0.83924400806427
+
+description: Dishware
+mid: /m/0h8nvk9
+score: 0.8230726718902588
+topicality: 0.8230726718902588
+
+description: Kitchen appliance
+mid: /m/0h99cwc
+score: 0.7926705479621887
+topicality: 0.7926705479621887
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7529484629631042
+topicality: 0.7529484629631042
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.7111315131187439
+topicality: 0.7111315131187439
+
+description: Urban design
+mid: /m/0d9wj
+score: 0.6912201046943665
+topicality: 0.6912201046943665
+
+description: Food
+mid: /m/02wbm
+score: 0.6870284080505371
+topicality: 0.6870284080505371
+
+description: Serveware
+mid: /m/0h8n22v
+score: 0.6691850423812866
+topicality: 0.6691850423812866
+
+description: Cooking
+mid: /m/01mtb
+score: 0.660850465297699
+topicality: 0.660850465297699
+
+description: Plate
+mid: /m/050gv4
+score: 0.6601845622062683
+topicality: 0.6601845622062683
+
+description: Brand
+mid: /m/01cd9
+score: 0.6554447412490845
+topicality: 0.6554447412490845
+
+description: Advertising
+mid: /m/011s0
+score: 0.64262455701828
+topicality: 0.64262455701828
+
+description: Multimedia
+mid: /m/0541p
+score: 0.617805004119873
+topicality: 0.617805004119873
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.5933681726455688
+topicality: 0.5933681726455688
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5923194289207458
+topicality: 0.5923194289207458
+
+description: Comfort food
+mid: /m/04q6ng
+score: 0.5836799740791321
+topicality: 0.5836799740791321
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5829622149467468
+topicality: 0.5829622149467468
+
+description: Countertop
+mid: /m/0b3fp9
+score: 0.5778873562812805
+topicality: 0.5778873562812805
+
+description: Animation
+mid: /m/0hcr
+score: 0.565947949886322
+topicality: 0.565947949886322
+
+description: Web page
+mid: /m/086nh
+score: 0.5634453296661377
+topicality: 0.5634453296661377
+
+description: Cuisine
+mid: /m/01ykh
+score: 0.5615366101264954
+topicality: 0.5615366101264954
+
+description: Table
+mid: /m/04bcr3
+score: 0.5607991814613342
+topicality: 0.5607991814613342
+
+description: Room
+mid: /m/06ht1
+score: 0.5601188540458679
+topicality: 0.5601188540458679
+
+description: Finger food
+mid: /m/0b3dyl
+score: 0.5420562028884888
+topicality: 0.5420562028884888
+
+description: Ingredient
+mid: /m/07xgrh
+score: 0.5401294827461243
+topicality: 0.5401294827461243
+
+description: Software
+mid: /m/01mf0
+score: 0.5393739938735962
+topicality: 0.5393739938735962
+
+description: Bowl
+mid: /m/04kkgm
+score: 0.5392225384712219
+topicality: 0.5392225384712219
+
+description: Food group
+mid: /m/08fw1g
+score: 0.5371349453926086
+topicality: 0.5371349453926086
+
+description: Coffee cup
+mid: /m/02p5f1q
+score: 0.5362018942832947
+topicality: 0.5362018942832947
+
+description: Cup
+mid: /m/07ptj3n
+score: 0.5358898043632507
+topicality: 0.5358898043632507
+
+description: Kitchen
+mid: /m/0d4wf
+score: 0.5314685106277466
+topicality: 0.5314685106277466
+
+description: Meal
+mid: /m/0krfg
+score: 0.5224192142486572
+topicality: 0.5224192142486572
+
+description: À la carte food
+mid: /m/02kpym
+score: 0.5194892883300781
+topicality: 0.5194892883300781
+
+description: Home appliance
+mid: /m/019dx1
+score: 0.5036068558692932
+topicality: 0.5036068558692932
+

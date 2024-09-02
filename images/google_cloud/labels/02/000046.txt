@@ -1,0 +1,155 @@
+description: Plant
+mid: /m/05s2s
+score: 0.9478430151939392
+topicality: 0.9478430151939392
+
+description: Building
+mid: /m/0cgh4
+score: 0.9420827031135559
+topicality: 0.9420827031135559
+
+description: Tree
+mid: /m/07j7r
+score: 0.8629838228225708
+topicality: 0.8629838228225708
+
+description: House
+mid: /m/03jm5
+score: 0.8193569183349609
+topicality: 0.8193569183349609
+
+description: Grass
+mid: /m/08t9c_
+score: 0.7914273142814636
+topicality: 0.7914273142814636
+
+description: Cottage
+mid: /m/03nxtz
+score: 0.7624226212501526
+topicality: 0.7624226212501526
+
+description: Facade
+mid: /m/01x314
+score: 0.7574303150177002
+topicality: 0.7574303150177002
+
+description: Wood
+mid: /m/083vt
+score: 0.720763087272644
+topicality: 0.720763087272644
+
+description: Landscape
+mid: /m/025s3q0
+score: 0.6983476877212524
+topicality: 0.6983476877212524
+
+description: Event
+mid: /m/081pkj
+score: 0.6882517337799072
+topicality: 0.6882517337799072
+
+description: Siding
+mid: /m/037cyw
+score: 0.6872847676277161
+topicality: 0.6872847676277161
+
+description: Font
+mid: /m/03gq5hm
+score: 0.6852045655250549
+topicality: 0.6852045655250549
+
+description: Roof
+mid: /m/06hyd
+score: 0.6844590306282043
+topicality: 0.6844590306282043
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.6692295074462891
+topicality: 0.6692295074462891
+
+description: Room
+mid: /m/06ht1
+score: 0.6443648934364319
+topicality: 0.6443648934364319
+
+description: Sky
+mid: /m/01bqvp
+score: 0.6354401707649231
+topicality: 0.6354401707649231
+
+description: Leisure
+mid: /m/04g3r
+score: 0.6280832290649414
+topicality: 0.6280832290649414
+
+description: Flower
+mid: /m/0c9ph5
+score: 0.6233415007591248
+topicality: 0.6233415007591248
+
+description: Garden
+mid: /m/0bl0l
+score: 0.6172141432762146
+topicality: 0.6172141432762146
+
+description: Suburb
+mid: /m/0750y
+score: 0.6047896146774292
+topicality: 0.6047896146774292
+
+description: Yard
+mid: /m/049_3v
+score: 0.5762291550636292
+topicality: 0.5762291550636292
+
+description: Landscaping
+mid: /m/025sv9y
+score: 0.5717583894729614
+topicality: 0.5717583894729614
+
+description: Animation
+mid: /m/0hcr
+score: 0.5668331384658813
+topicality: 0.5668331384658813
+
+description: Farmhouse
+mid: /m/080sjd
+score: 0.5614449977874756
+topicality: 0.5614449977874756
+
+description: Backyard
+mid: /m/0hrcj2p
+score: 0.5428009033203125
+topicality: 0.5428009033203125
+
+description: Estate
+mid: /m/038t8_
+score: 0.5408583879470825
+topicality: 0.5408583879470825
+
+description: Video game software
+mid: /m/0987_ns
+score: 0.5392679572105408
+topicality: 0.5392679572105408
+
+description: Pc game
+mid: /m/04tr8s
+score: 0.5228897333145142
+topicality: 0.5228897333145142
+
+description: Photo caption
+mid: /m/0b75wg4
+score: 0.522089421749115
+topicality: 0.522089421749115
+
+description: Mansion
+mid: /m/02pvbb
+score: 0.5192235112190247
+topicality: 0.5192235112190247
+
+description: Outdoor structure
+mid: /m/0h8lhsd
+score: 0.5069392919540405
+topicality: 0.5069392919540405
+

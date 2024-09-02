@@ -1,0 +1,55 @@
+description: Font
+mid: /m/03gq5hm
+score: 0.8116557598114014
+topicality: 0.8116557598114014
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.7564302682876587
+topicality: 0.7564302682876587
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7047408819198608
+topicality: 0.7047408819198608
+
+description: Carmine
+mid: /m/05t_yt
+score: 0.6588770747184753
+topicality: 0.6588770747184753
+
+description: Brand
+mid: /m/01cd9
+score: 0.6465897560119629
+topicality: 0.6465897560119629
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6441099643707275
+topicality: 0.6441099643707275
+
+description: Logo
+mid: /m/0dwx7
+score: 0.635829746723175
+topicality: 0.635829746723175
+
+description: Symbol
+mid: /m/09ddf
+score: 0.6017218232154846
+topicality: 0.6017218232154846
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5491600036621094
+topicality: 0.5491600036621094
+
+description: Trademark
+mid: /m/07d0f
+score: 0.5327515006065369
+topicality: 0.5327515006065369
+
+description: Sign
+mid: /m/06zsq
+score: 0.5163121819496155
+topicality: 0.5163121819496155
+

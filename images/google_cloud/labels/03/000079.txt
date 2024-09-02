@@ -1,0 +1,140 @@
+description: Pink
+mid: /m/01fklc
+score: 0.8495526313781738
+topicality: 0.8495526313781738
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.8476987481117249
+topicality: 0.8476987481117249
+
+description: Performing arts
+mid: /m/05qjc
+score: 0.8270622491836548
+topicality: 0.8270622491836548
+
+description: Red
+mid: /m/06fvc
+score: 0.8124662637710571
+topicality: 0.8124662637710571
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.8077698945999146
+topicality: 0.8077698945999146
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.7833834290504456
+topicality: 0.7833834290504456
+
+description: Event
+mid: /m/081pkj
+score: 0.7421956062316895
+topicality: 0.7421956062316895
+
+description: Flooring
+mid: /m/01c34b
+score: 0.7368261814117432
+topicality: 0.7368261814117432
+
+description: Performance art
+mid: /m/01350r
+score: 0.7098708152770996
+topicality: 0.7098708152770996
+
+description: Microphone
+mid: /m/0hg7b
+score: 0.7064537405967712
+topicality: 0.7064537405967712
+
+description: Font
+mid: /m/03gq5hm
+score: 0.6549726128578186
+topicality: 0.6549726128578186
+
+description: High heels
+mid: /m/06k2mb
+score: 0.6478146314620972
+topicality: 0.6478146314620972
+
+description: Public speaking
+mid: /m/068k4
+score: 0.6355556845664978
+topicality: 0.6355556845664978
+
+description: Formal wear
+mid: /m/02w3_2
+score: 0.6282780170440674
+topicality: 0.6282780170440674
+
+description: Performance
+mid: /m/01gq53
+score: 0.6240119934082031
+topicality: 0.6240119934082031
+
+description: Stage
+mid: /m/04_5hy
+score: 0.6186471581459045
+topicality: 0.6186471581459045
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.6144358515739441
+topicality: 0.6144358515739441
+
+description: Carpet
+mid: /m/01n5cy
+score: 0.5909630060195923
+topicality: 0.5909630060195923
+
+description: Acting
+mid: /m/0w7c
+score: 0.5643669962882996
+topicality: 0.5643669962882996
+
+description: Competition
+mid: /m/018tl7
+score: 0.5548412799835205
+topicality: 0.5548412799835205
+
+description: Audio equipment
+mid: /m/01yttv
+score: 0.5528631806373596
+topicality: 0.5528631806373596
+
+description: Speech
+mid: /m/09x0r
+score: 0.5456576943397522
+topicality: 0.5456576943397522
+
+description: heater
+mid: /m/03qsdpk
+score: 0.5365365743637085
+topicality: 0.5365365743637085
+
+description: Animation
+mid: /m/0hcr
+score: 0.5357843041419983
+topicality: 0.5357843041419983
+
+description: Singer
+mid: /m/09l65
+score: 0.5159494280815125
+topicality: 0.5159494280815125
+
+description: Orator
+mid: /m/0hpjt
+score: 0.5146894454956055
+topicality: 0.5146894454956055
+
+description: Talent show
+mid: /m/0byb_x
+score: 0.5133121013641357
+topicality: 0.5133121013641357
+
+description: Sandal
+mid: /m/03nfch
+score: 0.5116605758666992
+topicality: 0.5116605758666992
+

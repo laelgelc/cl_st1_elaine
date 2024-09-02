@@ -1,0 +1,95 @@
+description: Product
+mid: /m/01jwgf
+score: 0.9074729084968567
+topicality: 0.9074729084968567
+
+description: Urban design
+mid: /m/0d9wj
+score: 0.8275896906852722
+topicality: 0.8275896906852722
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7985482215881348
+topicality: 0.7985482215881348
+
+description: Art
+mid: /m/0jjw
+score: 0.7894670367240906
+topicality: 0.7894670367240906
+
+description: Building
+mid: /m/0cgh4
+score: 0.7419108152389526
+topicality: 0.7419108152389526
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.7405615448951721
+topicality: 0.7405615448951721
+
+description: Collage
+mid: /m/01bsxb
+score: 0.7332480549812317
+topicality: 0.7332480549812317
+
+description: Event
+mid: /m/081pkj
+score: 0.7182812094688416
+topicality: 0.7182812094688416
+
+description: Advertising
+mid: /m/011s0
+score: 0.645935595035553
+topicality: 0.645935595035553
+
+description: Room
+mid: /m/06ht1
+score: 0.6453747749328613
+topicality: 0.6453747749328613
+
+description: Brand
+mid: /m/01cd9
+score: 0.6213260293006897
+topicality: 0.6213260293006897
+
+description: Suburb
+mid: /m/0750y
+score: 0.6012459993362427
+topicality: 0.6012459993362427
+
+description: City
+mid: /m/01n32
+score: 0.5829514265060425
+topicality: 0.5829514265060425
+
+description: Collection
+mid: /m/08_4sd
+score: 0.5550537109375
+topicality: 0.5550537109375
+
+description: Window
+mid: /m/0d4v4
+score: 0.5186789035797119
+topicality: 0.5186789035797119
+
+description: Apartment
+mid: /m/01nblt
+score: 0.5176231861114502
+topicality: 0.5176231861114502
+
+description: Photomontage
+mid: /m/0b0fq
+score: 0.5132213830947876
+topicality: 0.5132213830947876
+
+description: Machine
+mid: /m/0dkw5
+score: 0.5117181539535522
+topicality: 0.5117181539535522
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5063925385475159
+topicality: 0.5063925385475159
+

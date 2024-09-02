@@ -1,0 +1,160 @@
+description: Tire
+mid: /m/0h9mv
+score: 0.9016312956809998
+topicality: 0.9016312956809998
+
+description: Wheel
+mid: /m/083wq
+score: 0.877269983291626
+topicality: 0.877269983291626
+
+description: Automotive tire
+mid: /m/0h8pb3l
+score: 0.8497582674026489
+topicality: 0.8497582674026489
+
+description: Automotive design
+mid: /m/068mqj
+score: 0.8149215579032898
+topicality: 0.8149215579032898
+
+description: Vehicle
+mid: /m/07yv9
+score: 0.8084519505500793
+topicality: 0.8084519505500793
+
+description: Automotive lighting
+mid: /m/0768fx
+score: 0.806964635848999
+topicality: 0.806964635848999
+
+description: Fender
+mid: /m/0d74dx
+score: 0.8051882982254028
+topicality: 0.8051882982254028
+
+description: Vehicle door
+mid: /m/02q2kc3
+score: 0.7807634472846985
+topicality: 0.7807634472846985
+
+description: Motor vehicle
+mid: /m/012f08
+score: 0.7774479985237122
+topicality: 0.7774479985237122
+
+description: Automotive exterior
+mid: /m/0h8ls87
+score: 0.7765565514564514
+topicality: 0.7765565514564514
+
+description: Bumper
+mid: /m/02mnkq
+score: 0.7501871585845947
+topicality: 0.7501871585845947
+
+description: Car
+mid: /m/0k4j
+score: 0.7281849980354309
+topicality: 0.7281849980354309
+
+description: Machine
+mid: /m/0dkw5
+score: 0.7268244028091431
+topicality: 0.7268244028091431
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7170240879058838
+topicality: 0.7170240879058838
+
+description: Auto part
+mid: /m/08dz3q
+score: 0.6893166899681091
+topicality: 0.6893166899681091
+
+description: Tree
+mid: /m/07j7r
+score: 0.6478114128112793
+topicality: 0.6478114128112793
+
+description: Automotive window part
+mid: /m/0h8lhq_
+score: 0.6350824236869812
+topicality: 0.6350824236869812
+
+description: Fictional character
+mid: /m/02h7lkt
+score: 0.6161037683486938
+topicality: 0.6161037683486938
+
+description: Animation
+mid: /m/0hcr
+score: 0.601178765296936
+topicality: 0.601178765296936
+
+description: Multimedia
+mid: /m/0541p
+score: 0.6004128456115723
+topicality: 0.6004128456115723
+
+description: Parking
+mid: /m/01jp76
+score: 0.5790055394172668
+topicality: 0.5790055394172668
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.5781557559967041
+topicality: 0.5781557559967041
+
+description: Luxury vehicle
+mid: /m/01lcwm
+score: 0.5661811828613281
+topicality: 0.5661811828613281
+
+description: Automotive wheel system
+mid: /m/0h8ly30
+score: 0.5597645044326782
+topicality: 0.5597645044326782
+
+description: Family car
+mid: /m/088l6h
+score: 0.559732973575592
+topicality: 0.559732973575592
+
+description: Brand
+mid: /m/01cd9
+score: 0.5563393235206604
+topicality: 0.5563393235206604
+
+description: Personal protective equipment
+mid: /m/0ffjr
+score: 0.5558509230613708
+topicality: 0.5558509230613708
+
+description: Commercial vehicle
+mid: /m/0fkwjg
+score: 0.5461257696151733
+topicality: 0.5461257696151733
+
+description: Pipe
+mid: /m/09w9qp
+score: 0.5342198610305786
+topicality: 0.5342198610305786
+
+description: 3d modeling
+mid: /m/02p30vv
+score: 0.5312391519546509
+topicality: 0.5312391519546509
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5293276309967041
+topicality: 0.5293276309967041
+
+description: Plastic
+mid: /m/05z87
+score: 0.5008145570755005
+topicality: 0.5008145570755005
+

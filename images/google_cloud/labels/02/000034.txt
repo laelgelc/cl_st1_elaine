@@ -1,0 +1,95 @@
+description: Purple
+mid: /m/09ggk
+score: 0.897266149520874
+topicality: 0.897266149520874
+
+description: Violet
+mid: /m/09gg3
+score: 0.8363754749298096
+topicality: 0.8363754749298096
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8175637125968933
+topicality: 0.8175637125968933
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7530926465988159
+topicality: 0.7530926465988159
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.7013838291168213
+topicality: 0.7013838291168213
+
+description: Event
+mid: /m/081pkj
+score: 0.6894823312759399
+topicality: 0.6894823312759399
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.6573513150215149
+topicality: 0.6573513150215149
+
+description: Animation
+mid: /m/0hcr
+score: 0.6263707876205444
+topicality: 0.6263707876205444
+
+description: Brand
+mid: /m/01cd9
+score: 0.6011943221092224
+topicality: 0.6011943221092224
+
+description: Display device
+mid: /m/029zz6
+score: 0.601128339767456
+topicality: 0.601128339767456
+
+description: Fictional character
+mid: /m/02h7lkt
+score: 0.598775327205658
+topicality: 0.598775327205658
+
+description: Software
+mid: /m/01mf0
+score: 0.5880496501922607
+topicality: 0.5880496501922607
+
+description: Games
+mid: /m/03bt1gh
+score: 0.5793783068656921
+topicality: 0.5793783068656921
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5699265003204346
+topicality: 0.5699265003204346
+
+description: Room
+mid: /m/06ht1
+score: 0.5600011944770813
+topicality: 0.5600011944770813
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5599643588066101
+topicality: 0.5599643588066101
+
+description: Multimedia
+mid: /m/0541p
+score: 0.5482875108718872
+topicality: 0.5482875108718872
+
+description: Video game software
+mid: /m/0987_ns
+score: 0.5117329955101013
+topicality: 0.5117329955101013
+
+description: Media
+mid: /m/03qh03g
+score: 0.5046892762184143
+topicality: 0.5046892762184143
+

@@ -1,0 +1,105 @@
+description: Organism
+mid: /m/05nnm
+score: 0.853213906288147
+topicality: 0.853213906288147
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8227101564407349
+topicality: 0.8227101564407349
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.7990235686302185
+topicality: 0.7990235686302185
+
+description: Urban design
+mid: /m/0d9wj
+score: 0.7728448510169983
+topicality: 0.7728448510169983
+
+description: Tree
+mid: /m/07j7r
+score: 0.6843014359474182
+topicality: 0.6843014359474182
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.6812828183174133
+topicality: 0.6812828183174133
+
+description: Sky
+mid: /m/01bqvp
+score: 0.6739568710327148
+topicality: 0.6739568710327148
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.6655846238136292
+topicality: 0.6655846238136292
+
+description: Machine
+mid: /m/0dkw5
+score: 0.6320511698722839
+topicality: 0.6320511698722839
+
+description: Animation
+mid: /m/0hcr
+score: 0.6285397410392761
+topicality: 0.6285397410392761
+
+description: Grass
+mid: /m/08t9c_
+score: 0.5972641110420227
+topicality: 0.5972641110420227
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5651068687438965
+topicality: 0.5651068687438965
+
+description: Arch
+mid: /m/0dpvm
+score: 0.5545757412910461
+topicality: 0.5545757412910461
+
+description: Room
+mid: /m/06ht1
+score: 0.5510182976722717
+topicality: 0.5510182976722717
+
+description: Brand
+mid: /m/01cd9
+score: 0.5508050918579102
+topicality: 0.5508050918579102
+
+description: Soil
+mid: /m/09dv7
+score: 0.5411360263824463
+topicality: 0.5411360263824463
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5309950709342957
+topicality: 0.5309950709342957
+
+description: 3d modeling
+mid: /m/02p30vv
+score: 0.5246325731277466
+topicality: 0.5246325731277466
+
+description: Animated cartoon
+mid: /m/095bb
+score: 0.5109394788742065
+topicality: 0.5109394788742065
+
+description: Pattern
+mid: /m/0hwky
+score: 0.5075023770332336
+topicality: 0.5075023770332336
+
+description: Metal
+mid: /m/04t7l
+score: 0.5024193525314331
+topicality: 0.5024193525314331
+

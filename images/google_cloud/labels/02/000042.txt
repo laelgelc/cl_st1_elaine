@@ -1,0 +1,145 @@
+description: Output device
+mid: /m/044_87
+score: 0.884434163570404
+topicality: 0.884434163570404
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8139028549194336
+topicality: 0.8139028549194336
+
+description: Technology
+mid: /m/07c1v
+score: 0.741830587387085
+topicality: 0.741830587387085
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.7409985065460205
+topicality: 0.7409985065460205
+
+description: Ball
+mid: /m/018xm
+score: 0.6822934746742249
+topicality: 0.6822934746742249
+
+description: Sports equipment
+mid: /m/05y5lj
+score: 0.6772711277008057
+topicality: 0.6772711277008057
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.6698324084281921
+topicality: 0.6698324084281921
+
+description: Machine
+mid: /m/0dkw5
+score: 0.6695269346237183
+topicality: 0.6695269346237183
+
+description: Table
+mid: /m/04bcr3
+score: 0.6629943251609802
+topicality: 0.6629943251609802
+
+description: Chair
+mid: /m/01mzpv
+score: 0.6522098779678345
+topicality: 0.6522098779678345
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.6378024816513062
+topicality: 0.6378024816513062
+
+description: Art
+mid: /m/0jjw
+score: 0.6265966892242432
+topicality: 0.6265966892242432
+
+description: Gadget
+mid: /m/02mf1n
+score: 0.611828625202179
+topicality: 0.611828625202179
+
+description: Racquet sport
+mid: /m/01qhp_
+score: 0.6093500852584839
+topicality: 0.6093500852584839
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.5768813490867615
+topicality: 0.5768813490867615
+
+description: Display device
+mid: /m/029zz6
+score: 0.5601949691772461
+topicality: 0.5601949691772461
+
+description: Animation
+mid: /m/0hcr
+score: 0.5585572719573975
+topicality: 0.5585572719573975
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5539485812187195
+topicality: 0.5539485812187195
+
+description: Net
+mid: /m/02qdwbp
+score: 0.553779661655426
+topicality: 0.553779661655426
+
+description: Computer program
+mid: /m/01r9v
+score: 0.5532417893409729
+topicality: 0.5532417893409729
+
+description: Toy
+mid: /m/0138tl
+score: 0.5491312742233276
+topicality: 0.5491312742233276
+
+description: Sports
+mid: /m/06ntj
+score: 0.5434136390686035
+topicality: 0.5434136390686035
+
+description: Brand
+mid: /m/01cd9
+score: 0.5395348072052002
+topicality: 0.5395348072052002
+
+description: Games
+mid: /m/03bt1gh
+score: 0.5237131118774414
+topicality: 0.5237131118774414
+
+description: Multimedia
+mid: /m/0541p
+score: 0.523145854473114
+topicality: 0.523145854473114
+
+description: Play
+mid: /m/06wtgq
+score: 0.5217698812484741
+topicality: 0.5217698812484741
+
+description: Tennis Equipment
+mid: /m/0bps4xh
+score: 0.517866313457489
+topicality: 0.517866313457489
+
+description: Pc game
+mid: /m/04tr8s
+score: 0.503009557723999
+topicality: 0.503009557723999
+
+description: Logo
+mid: /m/0dwx7
+score: 0.5018208026885986
+topicality: 0.5018208026885986
+

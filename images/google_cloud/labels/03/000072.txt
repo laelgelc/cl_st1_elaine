@@ -1,0 +1,100 @@
+description: Head
+mid: /m/04hgtk
+score: 0.974139392375946
+topicality: 0.974139392375946
+
+description: Chin
+mid: /m/0f9swq
+score: 0.9655805230140686
+topicality: 0.9655805230140686
+
+description: Facial expression
+mid: /m/01k74n
+score: 0.9327032566070557
+topicality: 0.9327032566070557
+
+description: Jaw
+mid: /m/01k9lj
+score: 0.87762451171875
+topicality: 0.87762451171875
+
+description: Organism
+mid: /m/05nnm
+score: 0.8526714444160461
+topicality: 0.8526714444160461
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8183024525642395
+topicality: 0.8183024525642395
+
+description: Circle
+mid: /m/01vkl
+score: 0.7349011898040771
+topicality: 0.7349011898040771
+
+description: Art
+mid: /m/0jjw
+score: 0.7304242253303528
+topicality: 0.7304242253303528
+
+description: Photo caption
+mid: /m/0b75wg4
+score: 0.6763532757759094
+topicality: 0.6763532757759094
+
+description: Flash photography
+mid: /g/1tr17zw8
+score: 0.6763519644737244
+topicality: 0.6763519644737244
+
+description: History
+mid: /m/03g3w
+score: 0.6546337604522705
+topicality: 0.6546337604522705
+
+description: Event
+mid: /m/081pkj
+score: 0.6458850502967834
+topicality: 0.6458850502967834
+
+description: Darkness
+mid: /m/01kyr8
+score: 0.6190450191497803
+topicality: 0.6190450191497803
+
+description: Symmetry
+mid: /m/0f28m
+score: 0.6017875075340271
+topicality: 0.6017875075340271
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.5965395569801331
+topicality: 0.5965395569801331
+
+description: Brand
+mid: /m/01cd9
+score: 0.5465583801269531
+topicality: 0.5465583801269531
+
+description: Visual arts
+mid: /m/0p9xx
+score: 0.5327937006950378
+topicality: 0.5327937006950378
+
+description: Portrait
+mid: /m/01dv4h
+score: 0.5327555537223816
+topicality: 0.5327555537223816
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5129363536834717
+topicality: 0.5129363536834717
+
+description: Happy
+mid: /m/016pp7
+score: 0.5069233775138855
+topicality: 0.5069233775138855
+

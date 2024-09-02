@@ -1,0 +1,140 @@
+description: Entertainment
+mid: /m/02jjt
+score: 0.8867341876029968
+topicality: 0.8867341876029968
+
+description: Purple
+mid: /m/09ggk
+score: 0.8825244903564453
+topicality: 0.8825244903564453
+
+description: Lighting
+mid: /m/019sc6
+score: 0.8642109632492065
+topicality: 0.8642109632492065
+
+description: Stage
+mid: /m/04_5hy
+score: 0.8059917688369751
+topicality: 0.8059917688369751
+
+description: Performing arts
+mid: /m/05qjc
+score: 0.805144727230072
+topicality: 0.805144727230072
+
+description: Event
+mid: /m/081pkj
+score: 0.7540282011032104
+topicality: 0.7540282011032104
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7240527868270874
+topicality: 0.7240527868270874
+
+description: Circle
+mid: /m/01vkl
+score: 0.7122368216514587
+topicality: 0.7122368216514587
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7015042901039124
+topicality: 0.7015042901039124
+
+description: Display device
+mid: /m/029zz6
+score: 0.6928468346595764
+topicality: 0.6928468346595764
+
+description: Visual effect lighting
+mid: /m/0h8n2vs
+score: 0.6827883720397949
+topicality: 0.6827883720397949
+
+description: Suit
+mid: /m/01xyhv
+score: 0.6718230843544006
+topicality: 0.6718230843544006
+
+description: Performance
+mid: /m/01gq53
+score: 0.6653509140014648
+topicality: 0.6653509140014648
+
+description: Performing arts center
+mid: /m/07l44b
+score: 0.6551433205604553
+topicality: 0.6551433205604553
+
+description: Art
+mid: /m/0jjw
+score: 0.6547741889953613
+topicality: 0.6547741889953613
+
+description: Plant
+mid: /m/05s2s
+score: 0.6547354459762573
+topicality: 0.6547354459762573
+
+description: Projection screen
+mid: /m/06ycgh
+score: 0.6418206691741943
+topicality: 0.6418206691741943
+
+description: Performance art
+mid: /m/01350r
+score: 0.635967493057251
+topicality: 0.635967493057251
+
+description: Theatre
+mid: /m/05npqn
+score: 0.6251470446586609
+topicality: 0.6251470446586609
+
+description: Music venue
+mid: /m/07b2m8
+score: 0.6193918585777283
+topicality: 0.6193918585777283
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.5966109037399292
+topicality: 0.5966109037399292
+
+description: heater
+mid: /m/03qsdpk
+score: 0.5765422582626343
+topicality: 0.5765422582626343
+
+description: Night
+mid: /m/01d74z
+score: 0.5636728405952454
+topicality: 0.5636728405952454
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.5573732256889343
+topicality: 0.5573732256889343
+
+description: Stage equipment
+mid: /m/0h8mknb
+score: 0.5355005860328674
+topicality: 0.5355005860328674
+
+description: Auditorium
+mid: /m/039l3v
+score: 0.5339276790618896
+topicality: 0.5339276790618896
+
+description: Flat panel display
+mid: /m/01qwsw
+score: 0.5118139386177063
+topicality: 0.5118139386177063
+
+description: Multimedia
+mid: /m/0541p
+score: 0.5080193877220154
+topicality: 0.5080193877220154
+

@@ -1,0 +1,70 @@
+description: Organism
+mid: /m/05nnm
+score: 0.8618802428245544
+topicality: 0.8618802428245544
+
+description: Art
+mid: /m/0jjw
+score: 0.7152649164199829
+topicality: 0.7152649164199829
+
+description: Recreation
+mid: /m/06bm2
+score: 0.7086277008056641
+topicality: 0.7086277008056641
+
+description: Font
+mid: /m/03gq5hm
+score: 0.6985191106796265
+topicality: 0.6985191106796265
+
+description: Advertising
+mid: /m/011s0
+score: 0.6723684072494507
+topicality: 0.6723684072494507
+
+description: Leisure
+mid: /m/04g3r
+score: 0.6469370126724243
+topicality: 0.6469370126724243
+
+description: Graphic design
+mid: /m/03c31
+score: 0.6266002655029297
+topicality: 0.6266002655029297
+
+description: Display device
+mid: /m/029zz6
+score: 0.575471043586731
+topicality: 0.575471043586731
+
+description: Fictional character
+mid: /m/02h7lkt
+score: 0.5604384541511536
+topicality: 0.5604384541511536
+
+description: Animation
+mid: /m/0hcr
+score: 0.5564968585968018
+topicality: 0.5564968585968018
+
+description: Shark
+mid: /m/0by6g
+score: 0.5464834570884705
+topicality: 0.5464834570884705
+
+description: Collage
+mid: /m/01bsxb
+score: 0.5271790623664856
+topicality: 0.5271790623664856
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5138345956802368
+topicality: 0.5138345956802368
+
+description: Extreme sport
+mid: /m/02pyg
+score: 0.5065670609474182
+topicality: 0.5065670609474182
+

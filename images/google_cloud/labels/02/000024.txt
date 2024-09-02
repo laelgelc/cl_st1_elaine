@@ -1,0 +1,120 @@
+description: Astronomical object
+mid: /m/01d9ll
+score: 0.8341295719146729
+topicality: 0.8341295719146729
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8245615363121033
+topicality: 0.8245615363121033
+
+description: Visual effect lighting
+mid: /m/0h8n2vs
+score: 0.8003097176551819
+topicality: 0.8003097176551819
+
+description: Science
+mid: /m/06mq7
+score: 0.7882546186447144
+topicality: 0.7882546186447144
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7660024762153625
+topicality: 0.7660024762153625
+
+description: Art
+mid: /m/0jjw
+score: 0.7625916600227356
+topicality: 0.7625916600227356
+
+description: Circle
+mid: /m/01vkl
+score: 0.7611196637153625
+topicality: 0.7611196637153625
+
+description: Technology
+mid: /m/07c1v
+score: 0.7536660432815552
+topicality: 0.7536660432815552
+
+description: Space
+mid: /m/06wqb
+score: 0.7397362589836121
+topicality: 0.7397362589836121
+
+description: Event
+mid: /m/081pkj
+score: 0.7098820805549622
+topicality: 0.7098820805549622
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6759793758392334
+topicality: 0.6759793758392334
+
+description: Astronomy
+mid: /m/0dc_v
+score: 0.6634500622749329
+topicality: 0.6634500622749329
+
+description: Darkness
+mid: /m/01kyr8
+score: 0.6570385694503784
+topicality: 0.6570385694503784
+
+description: Universe
+mid: /m/07v7c
+score: 0.6219636797904968
+topicality: 0.6219636797904968
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.6166381239891052
+topicality: 0.6166381239891052
+
+description: Planet
+mid: /m/05qc_
+score: 0.6076451539993286
+topicality: 0.6076451539993286
+
+description: Graphic design
+mid: /m/03c31
+score: 0.6050774455070496
+topicality: 0.6050774455070496
+
+description: Symmetry
+mid: /m/0f28m
+score: 0.6032143235206604
+topicality: 0.6032143235206604
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.5844211578369141
+topicality: 0.5844211578369141
+
+description: Pattern
+mid: /m/0hwky
+score: 0.5815280079841614
+topicality: 0.5815280079841614
+
+description: Lens flare
+mid: /m/017bm6
+score: 0.560767412185669
+topicality: 0.560767412185669
+
+description: Brand
+mid: /m/01cd9
+score: 0.5261881351470947
+topicality: 0.5261881351470947
+
+description: Earth
+mid: /m/02j71
+score: 0.5197850465774536
+topicality: 0.5197850465774536
+
+description: Logo
+mid: /m/0dwx7
+score: 0.5135458707809448
+topicality: 0.5135458707809448
+

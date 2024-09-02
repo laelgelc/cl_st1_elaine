@@ -1,0 +1,30 @@
+description: Font
+mid: /m/03gq5hm
+score: 0.7761363387107849
+topicality: 0.7761363387107849
+
+description: Brand
+mid: /m/01cd9
+score: 0.6385963559150696
+topicality: 0.6385963559150696
+
+description: Logo
+mid: /m/0dwx7
+score: 0.6294808387756348
+topicality: 0.6294808387756348
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.5843415856361389
+topicality: 0.5843415856361389
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5801123976707458
+topicality: 0.5801123976707458
+
+description: Trademark
+mid: /m/07d0f
+score: 0.5069175362586975
+topicality: 0.5069175362586975
+

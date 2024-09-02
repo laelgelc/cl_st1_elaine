@@ -1,0 +1,125 @@
+description: Chair
+mid: /m/01mzpv
+score: 0.8352338075637817
+topicality: 0.8352338075637817
+
+description: Table
+mid: /m/04bcr3
+score: 0.8296926617622375
+topicality: 0.8296926617622375
+
+description: Floor
+mid: /m/0l7_8
+score: 0.8080966472625732
+topicality: 0.8080966472625732
+
+description: Flooring
+mid: /m/01c34b
+score: 0.8033843040466309
+topicality: 0.8033843040466309
+
+description: Material property
+mid: /m/0457gc6
+score: 0.8003981709480286
+topicality: 0.8003981709480286
+
+description: Real estate
+mid: /m/023907r
+score: 0.7878264784812927
+topicality: 0.7878264784812927
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7795209288597107
+topicality: 0.7795209288597107
+
+description: Computer desk
+mid: /m/029bm2
+score: 0.7289345264434814
+topicality: 0.7289345264434814
+
+description: Office chair
+mid: /m/08q1xp
+score: 0.6987312436103821
+topicality: 0.6987312436103821
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6857636570930481
+topicality: 0.6857636570930481
+
+description: Brand
+mid: /m/01cd9
+score: 0.6603652834892273
+topicality: 0.6603652834892273
+
+description: Advertising
+mid: /m/011s0
+score: 0.6543673872947693
+topicality: 0.6543673872947693
+
+description: Event
+mid: /m/081pkj
+score: 0.6536687016487122
+topicality: 0.6536687016487122
+
+description: Room
+mid: /m/06ht1
+score: 0.6515700817108154
+topicality: 0.6515700817108154
+
+description: Living room
+mid: /m/03f6tq
+score: 0.627997100353241
+topicality: 0.627997100353241
+
+description: Ceiling
+mid: /m/03gfsp
+score: 0.6090825796127319
+topicality: 0.6090825796127319
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5899011492729187
+topicality: 0.5899011492729187
+
+description: Machine
+mid: /m/0dkw5
+score: 0.5739679336547852
+topicality: 0.5739679336547852
+
+description: Multimedia
+mid: /m/0541p
+score: 0.557402491569519
+topicality: 0.557402491569519
+
+description: Desk
+mid: /m/01y9k5
+score: 0.5572094917297363
+topicality: 0.5572094917297363
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.537923276424408
+topicality: 0.537923276424408
+
+description: Home appliance
+mid: /m/019dx1
+score: 0.5298234224319458
+topicality: 0.5298234224319458
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.5293408632278442
+topicality: 0.5293408632278442
+
+description: Display device
+mid: /m/029zz6
+score: 0.5217936635017395
+topicality: 0.5217936635017395
+
+description: Building
+mid: /m/0cgh4
+score: 0.5180953145027161
+topicality: 0.5180953145027161
+

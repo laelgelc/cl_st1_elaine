@@ -1,0 +1,135 @@
+description: Interaction
+mid: /m/01ckgp
+score: 0.8303020000457764
+topicality: 0.8303020000457764
+
+description: Service
+mid: /m/018tkd
+score: 0.7702898383140564
+topicality: 0.7702898383140564
+
+description: Happy
+mid: /m/016pp7
+score: 0.7596542239189148
+topicality: 0.7596542239189148
+
+description: Event
+mid: /m/081pkj
+score: 0.748691976070404
+topicality: 0.748691976070404
+
+description: Hospital
+mid: /m/0hpnr
+score: 0.7268003225326538
+topicality: 0.7268003225326538
+
+description: T-shirt
+mid: /m/013s93
+score: 0.7021061778068542
+topicality: 0.7021061778068542
+
+description: Job
+mid: /m/04115t2
+score: 0.6938629150390625
+topicality: 0.6938629150390625
+
+description: Science
+mid: /m/06mq7
+score: 0.6723088026046753
+topicality: 0.6723088026046753
+
+description: Customer
+mid: /m/01j0mk
+score: 0.6666561365127563
+topicality: 0.6666561365127563
+
+description: Conversation
+mid: /m/01h8n0
+score: 0.6615528464317322
+topicality: 0.6615528464317322
+
+description: Child
+mid: /m/0ytgt
+score: 0.6513233780860901
+topicality: 0.6513233780860901
+
+description: Eyewear
+mid: /m/0j272k5
+score: 0.6274579763412476
+topicality: 0.6274579763412476
+
+description: Employment
+mid: /m/01tqrk
+score: 0.6225384473800659
+topicality: 0.6225384473800659
+
+description: Patient
+mid: /m/028hfb
+score: 0.6014169454574585
+topicality: 0.6014169454574585
+
+description: Medical
+mid: /m/02xht4g
+score: 0.5826851725578308
+topicality: 0.5826851725578308
+
+description: Collaboration
+mid: /m/01s560
+score: 0.5651662349700928
+topicality: 0.5651662349700928
+
+description: Advertising
+mid: /m/011s0
+score: 0.5590006709098816
+topicality: 0.5590006709098816
+
+description: Health care
+mid: /m/01mw2x
+score: 0.5545157194137573
+topicality: 0.5545157194137573
+
+description: Education
+mid: /m/02jfc
+score: 0.550194501876831
+topicality: 0.550194501876831
+
+description: Room
+mid: /m/06ht1
+score: 0.5485309362411499
+topicality: 0.5485309362411499
+
+description: Photo caption
+mid: /m/0b75wg4
+score: 0.5402470827102661
+topicality: 0.5402470827102661
+
+description: Brand
+mid: /m/01cd9
+score: 0.5293803811073303
+topicality: 0.5293803811073303
+
+description: Class
+mid: /m/075_ys
+score: 0.5276329517364502
+topicality: 0.5276329517364502
+
+description: Clinic
+mid: /m/03fk5c
+score: 0.5266653299331665
+topicality: 0.5266653299331665
+
+description: Presentation
+mid: /m/02y3rj
+score: 0.5250000953674316
+topicality: 0.5250000953674316
+
+description: Teacher
+mid: /m/01d30f
+score: 0.505264163017273
+topicality: 0.505264163017273
+
+description: Learning
+mid: /m/0191f8
+score: 0.5030989050865173
+topicality: 0.5030989050865173
+

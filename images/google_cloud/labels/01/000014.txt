@@ -1,0 +1,20 @@
+description: Font
+mid: /m/03gq5hm
+score: 0.825901985168457
+topicality: 0.825901985168457
+
+description: Circle
+mid: /m/01vkl
+score: 0.7533610463142395
+topicality: 0.7533610463142395
+
+description: Event
+mid: /m/081pkj
+score: 0.6426116228103638
+topicality: 0.6426116228103638
+
+description: Science
+mid: /m/06mq7
+score: 0.5564646124839783
+topicality: 0.5564646124839783
+

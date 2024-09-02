@@ -1,0 +1,130 @@
+description: Eyelash
+mid: /m/03f52z
+score: 0.9060894846916199
+topicality: 0.9060894846916199
+
+description: Flash photography
+mid: /g/1tr17zw8
+score: 0.8645889759063721
+topicality: 0.8645889759063721
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.7881923317909241
+topicality: 0.7881923317909241
+
+description: Performing arts
+mid: /m/05qjc
+score: 0.7697888016700745
+topicality: 0.7697888016700745
+
+description: Waist
+mid: /m/031974
+score: 0.7586816549301147
+topicality: 0.7586816549301147
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.7511240243911743
+topicality: 0.7511240243911743
+
+description: Formal wear
+mid: /m/02w3_2
+score: 0.7439973950386047
+topicality: 0.7439973950386047
+
+description: Thigh
+mid: /m/01j04m
+score: 0.738177478313446
+topicality: 0.738177478313446
+
+description: Event
+mid: /m/081pkj
+score: 0.7351393103599548
+topicality: 0.7351393103599548
+
+description: Haute couture
+mid: /m/02_8m1
+score: 0.6949375867843628
+topicality: 0.6949375867843628
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.6942498683929443
+topicality: 0.6942498683929443
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.6749396920204163
+topicality: 0.6749396920204163
+
+description: Day dress
+mid: /m/0hgsb5g
+score: 0.6641599535942078
+topicality: 0.6641599535942078
+
+description: Fashion model
+mid: /m/02hqr87
+score: 0.66324782371521
+topicality: 0.66324782371521
+
+description: Brown hair
+mid: /m/02ksmb
+score: 0.6622527837753296
+topicality: 0.6622527837753296
+
+description: Makeover
+mid: /m/02qp_b
+score: 0.6584298610687256
+topicality: 0.6584298610687256
+
+description: Cocktail dress
+mid: /m/05sfw_
+score: 0.6322922706604004
+topicality: 0.6322922706604004
+
+description: Gown
+mid: /m/0bp_2p
+score: 0.6194241642951965
+topicality: 0.6194241642951965
+
+description: Fashion show
+mid: /m/02pdvpt
+score: 0.5812865495681763
+topicality: 0.5812865495681763
+
+description: Performance art
+mid: /m/01350r
+score: 0.5773752331733704
+topicality: 0.5773752331733704
+
+description: Peach
+mid: /m/03r18y
+score: 0.5727477073669434
+topicality: 0.5727477073669434
+
+description: Performance
+mid: /m/01gq53
+score: 0.5668469071388245
+topicality: 0.5668469071388245
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.5561874508857727
+topicality: 0.5561874508857727
+
+description: Costume design
+mid: /m/04s5jq
+score: 0.5346663594245911
+topicality: 0.5346663594245911
+
+description: Jewellery
+mid: /m/0404d
+score: 0.5167355537414551
+topicality: 0.5167355537414551
+
+description: Abdomen
+mid: /m/08y7p8
+score: 0.5041147470474243
+topicality: 0.5041147470474243
+

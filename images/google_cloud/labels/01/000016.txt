@@ -1,0 +1,120 @@
+description: Blue
+mid: /m/01g5v
+score: 0.9116715788841248
+topicality: 0.9116715788841248
+
+description: Textile
+mid: /m/0dnr7
+score: 0.872394323348999
+topicality: 0.872394323348999
+
+description: One-piece garment
+mid: /m/0142sg
+score: 0.856003999710083
+topicality: 0.856003999710083
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.784752607345581
+topicality: 0.784752607345581
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7577996253967285
+topicality: 0.7577996253967285
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.7468468546867371
+topicality: 0.7468468546867371
+
+description: Event
+mid: /m/081pkj
+score: 0.7418681383132935
+topicality: 0.7418681383132935
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7246958613395691
+topicality: 0.7246958613395691
+
+description: Pattern
+mid: /m/0hwky
+score: 0.7138990759849548
+topicality: 0.7138990759849548
+
+description: Formal wear
+mid: /m/02w3_2
+score: 0.6818013787269592
+topicality: 0.6818013787269592
+
+description: Font
+mid: /m/03gq5hm
+score: 0.6602376103401184
+topicality: 0.6602376103401184
+
+description: Flag of the united states
+mid: /m/0317s
+score: 0.6591551303863525
+topicality: 0.6591551303863525
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.6524047255516052
+topicality: 0.6524047255516052
+
+description: Day dress
+mid: /m/0hgsb5g
+score: 0.6516097187995911
+topicality: 0.6516097187995911
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.6385182738304138
+topicality: 0.6385182738304138
+
+description: Room
+mid: /m/06ht1
+score: 0.6027497053146362
+topicality: 0.6027497053146362
+
+description: Visual arts
+mid: /m/0p9xx
+score: 0.6013444066047668
+topicality: 0.6013444066047668
+
+description: Cocktail dress
+mid: /m/05sfw_
+score: 0.5914992690086365
+topicality: 0.5914992690086365
+
+description: Display device
+mid: /m/029zz6
+score: 0.5824628472328186
+topicality: 0.5824628472328186
+
+description: Symbol
+mid: /m/09ddf
+score: 0.5343237519264221
+topicality: 0.5343237519264221
+
+description: Flag
+mid: /m/03120
+score: 0.5335420370101929
+topicality: 0.5335420370101929
+
+description: Advertising
+mid: /m/011s0
+score: 0.5153855085372925
+topicality: 0.5153855085372925
+
+description: Media
+mid: /m/03qh03g
+score: 0.5134056806564331
+topicality: 0.5134056806564331
+
+description: Symmetry
+mid: /m/0f28m
+score: 0.504869282245636
+topicality: 0.504869282245636
+

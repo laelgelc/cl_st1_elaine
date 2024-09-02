@@ -1,0 +1,110 @@
+description: Product
+mid: /m/01jwgf
+score: 0.9076269268989563
+topicality: 0.9076269268989563
+
+description: World
+mid: /m/09nm_
+score: 0.9031424522399902
+topicality: 0.9031424522399902
+
+description: Art
+mid: /m/0jjw
+score: 0.8318499326705933
+topicality: 0.8318499326705933
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8245554566383362
+topicality: 0.8245554566383362
+
+description: Travel
+mid: /m/014dsx
+score: 0.7935219407081604
+topicality: 0.7935219407081604
+
+description: Adaptation
+mid: /m/03r_vp
+score: 0.7934485673904419
+topicality: 0.7934485673904419
+
+description: Collage
+mid: /m/01bsxb
+score: 0.7681972980499268
+topicality: 0.7681972980499268
+
+description: Advertising
+mid: /m/011s0
+score: 0.7109701633453369
+topicality: 0.7109701633453369
+
+description: Urban design
+mid: /m/0d9wj
+score: 0.6717109680175781
+topicality: 0.6717109680175781
+
+description: Brand
+mid: /m/01cd9
+score: 0.6636272668838501
+topicality: 0.6636272668838501
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.653046190738678
+topicality: 0.653046190738678
+
+description: Room
+mid: /m/06ht1
+score: 0.6297001838684082
+topicality: 0.6297001838684082
+
+description: Website
+mid: /m/085n4
+score: 0.6128530502319336
+topicality: 0.6128530502319336
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5958912372589111
+topicality: 0.5958912372589111
+
+description: Tourism
+mid: /m/07bxq
+score: 0.5484141111373901
+topicality: 0.5484141111373901
+
+description: Couch
+mid: /m/02crq1
+score: 0.5380579829216003
+topicality: 0.5380579829216003
+
+description: Historic site
+mid: /m/07yr8h
+score: 0.533425509929657
+topicality: 0.533425509929657
+
+description: Logo
+mid: /m/0dwx7
+score: 0.5296931862831116
+topicality: 0.5296931862831116
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5168461203575134
+topicality: 0.5168461203575134
+
+description: Linens
+mid: /m/06httj
+score: 0.5025596618652344
+topicality: 0.5025596618652344
+
+description: Leisure
+mid: /m/04g3r
+score: 0.5024512410163879
+topicality: 0.5024512410163879
+
+description: Bag
+mid: /m/0n5v01m
+score: 0.5017395615577698
+topicality: 0.5017395615577698
+

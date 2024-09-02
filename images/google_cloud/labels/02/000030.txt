@@ -1,0 +1,165 @@
+description: Blue
+mid: /m/01g5v
+score: 0.8965925574302673
+topicality: 0.8965925574302673
+
+description: Azure
+mid: /m/03jn2m
+score: 0.8922870755195618
+topicality: 0.8922870755195618
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.8697715997695923
+topicality: 0.8697715997695923
+
+description: Flat panel display
+mid: /m/01qwsw
+score: 0.8318966627120972
+topicality: 0.8318966627120972
+
+description: Gadget
+mid: /m/02mf1n
+score: 0.8036356568336487
+topicality: 0.8036356568336487
+
+description: Projection screen
+mid: /m/06ycgh
+score: 0.8029296398162842
+topicality: 0.8029296398162842
+
+description: Stage
+mid: /m/04_5hy
+score: 0.7723739743232727
+topicality: 0.7723739743232727
+
+description: Crowd
+mid: /m/03qtwd
+score: 0.7723674178123474
+topicality: 0.7723674178123474
+
+description: Display device
+mid: /m/029zz6
+score: 0.760758101940155
+topicality: 0.760758101940155
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7602614760398865
+topicality: 0.7602614760398865
+
+description: Multimedia
+mid: /m/0541p
+score: 0.7542209625244141
+topicality: 0.7542209625244141
+
+description: Electronic device
+mid: /m/0bs7_0t
+score: 0.7487109303474426
+topicality: 0.7487109303474426
+
+description: Event
+mid: /m/081pkj
+score: 0.7462143301963806
+topicality: 0.7462143301963806
+
+description: Projector accessory
+mid: /m/0h8mz6k
+score: 0.742636501789093
+topicality: 0.742636501789093
+
+description: Space
+mid: /m/06wqb
+score: 0.7365636825561523
+topicality: 0.7365636825561523
+
+description: Suit
+mid: /m/01xyhv
+score: 0.7125551700592041
+topicality: 0.7125551700592041
+
+description: Led-backlit lcd display
+mid: /m/05p37dx
+score: 0.7067558169364929
+topicality: 0.7067558169364929
+
+description: Performance
+mid: /m/01gq53
+score: 0.6575767397880554
+topicality: 0.6575767397880554
+
+description: Audience
+mid: /m/033lpr
+score: 0.6487891674041748
+topicality: 0.6487891674041748
+
+description: Presentation
+mid: /m/02y3rj
+score: 0.6356942653656006
+topicality: 0.6356942653656006
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.6308443546295166
+topicality: 0.6308443546295166
+
+description: Performing arts
+mid: /m/05qjc
+score: 0.6246408224105835
+topicality: 0.6246408224105835
+
+description: Font
+mid: /m/03gq5hm
+score: 0.5743080973625183
+topicality: 0.5743080973625183
+
+description: Television
+mid: /m/07c52
+score: 0.5733835101127625
+topicality: 0.5733835101127625
+
+description: Room
+mid: /m/06ht1
+score: 0.5674557089805603
+topicality: 0.5674557089805603
+
+description: Led display
+mid: /m/04gvls_
+score: 0.5638322830200195
+topicality: 0.5638322830200195
+
+description: Auditorium
+mid: /m/039l3v
+score: 0.5569123029708862
+topicality: 0.5569123029708862
+
+description: Night
+mid: /m/01d74z
+score: 0.5565561056137085
+topicality: 0.5565561056137085
+
+description: Media
+mid: /m/03qh03g
+score: 0.5486488342285156
+topicality: 0.5486488342285156
+
+description: T-shirt
+mid: /m/013s93
+score: 0.5266419053077698
+topicality: 0.5266419053077698
+
+description: Television set
+mid: /m/0bx_y3w
+score: 0.5238922238349915
+topicality: 0.5238922238349915
+
+description: Darkness
+mid: /m/01kyr8
+score: 0.5166639685630798
+topicality: 0.5166639685630798
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.5034990310668945
+topicality: 0.5034990310668945
+

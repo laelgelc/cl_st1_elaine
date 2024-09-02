@@ -1,0 +1,210 @@
+description: Computer
+mid: /m/01m3v
+score: 0.9560585021972656
+topicality: 0.9560585021972656
+
+description: Laptop
+mid: /m/01c648
+score: 0.9342712163925171
+topicality: 0.9342712163925171
+
+description: Personal computer
+mid: /m/0643t
+score: 0.9294080138206482
+topicality: 0.9294080138206482
+
+description: Product
+mid: /m/01jwgf
+score: 0.9074205160140991
+topicality: 0.9074205160140991
+
+description: Output device
+mid: /m/044_87
+score: 0.8956973552703857
+topicality: 0.8956973552703857
+
+description: Writing implement
+mid: /m/06wybl
+score: 0.855072021484375
+topicality: 0.855072021484375
+
+description: Office equipment
+mid: /m/03qtgjk
+score: 0.8484769463539124
+topicality: 0.8484769463539124
+
+description: Office supplies
+mid: /m/02rdsp
+score: 0.8229583501815796
+topicality: 0.8229583501815796
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8077511191368103
+topicality: 0.8077511191368103
+
+description: Gadget
+mid: /m/02mf1n
+score: 0.7981351613998413
+topicality: 0.7981351613998413
+
+description: Pen
+mid: /m/0k1tl
+score: 0.7748943567276001
+topicality: 0.7748943567276001
+
+description: Technology
+mid: /m/07c1v
+score: 0.7636973261833191
+topicality: 0.7636973261833191
+
+description: Computer keyboard
+mid: /m/01m2v
+score: 0.7629384994506836
+topicality: 0.7629384994506836
+
+description: Electronic device
+mid: /m/0bs7_0t
+score: 0.7532961964607239
+topicality: 0.7532961964607239
+
+description: Netbook
+mid: /m/0403lcy
+score: 0.7524765729904175
+topicality: 0.7524765729904175
+
+description: Computer hardware
+mid: /m/01mfj
+score: 0.7271446585655212
+topicality: 0.7271446585655212
+
+description: Engineering
+mid: /m/02ky346
+score: 0.7264273762702942
+topicality: 0.7264273762702942
+
+description: Stationery
+mid: /m/01cndb
+score: 0.7131784558296204
+topicality: 0.7131784558296204
+
+description: Touchpad
+mid: /m/01q3m6
+score: 0.6961606740951538
+topicality: 0.6961606740951538
+
+description: Multimedia
+mid: /m/0541p
+score: 0.6692869663238525
+topicality: 0.6692869663238525
+
+description: Tableware
+mid: /m/04brg2
+score: 0.6500409245491028
+topicality: 0.6500409245491028
+
+description: Display device
+mid: /m/029zz6
+score: 0.649886429309845
+topicality: 0.649886429309845
+
+description: Advertising
+mid: /m/011s0
+score: 0.6462313532829285
+topicality: 0.6462313532829285
+
+description: Brand
+mid: /m/01cd9
+score: 0.6425405740737915
+topicality: 0.6425405740737915
+
+description: Desk
+mid: /m/01y9k5
+score: 0.642156720161438
+topicality: 0.642156720161438
+
+description: Software engineering
+mid: /m/06q83
+score: 0.6164820194244385
+topicality: 0.6164820194244385
+
+description: Web page
+mid: /m/086nh
+score: 0.6131946444511414
+topicality: 0.6131946444511414
+
+description: Paper product
+mid: /m/0h8p59j
+score: 0.6116940379142761
+topicality: 0.6116940379142761
+
+description: Office instrument
+mid: /m/0h8m01z
+score: 0.6077073812484741
+topicality: 0.6077073812484741
+
+description: Graphic design
+mid: /m/03c31
+score: 0.6067162156105042
+topicality: 0.6067162156105042
+
+description: Software
+mid: /m/01mf0
+score: 0.603618323802948
+topicality: 0.603618323802948
+
+description: Input device
+mid: /m/02dwgb
+score: 0.5956903696060181
+topicality: 0.5956903696060181
+
+description: Table
+mid: /m/04bcr3
+score: 0.583160400390625
+topicality: 0.583160400390625
+
+description: Paper
+mid: /m/0641k
+score: 0.5457727313041687
+topicality: 0.5457727313041687
+
+description: Computer network
+mid: /m/025szts
+score: 0.5376634001731873
+topicality: 0.5376634001731873
+
+description: Writing instrument accessory
+mid: /m/0h8n67s
+score: 0.5354686379432678
+topicality: 0.5354686379432678
+
+description: Website
+mid: /m/085n4
+score: 0.5313284993171692
+topicality: 0.5313284993171692
+
+description: Room
+mid: /m/06ht1
+score: 0.5287973284721375
+topicality: 0.5287973284721375
+
+description: Desktop computer
+mid: /m/0dvvc
+score: 0.5261860489845276
+topicality: 0.5261860489845276
+
+description: Document
+mid: /m/015bv3
+score: 0.5182895064353943
+topicality: 0.5182895064353943
+
+description: Computer desk
+mid: /m/029bm2
+score: 0.5163576602935791
+topicality: 0.5163576602935791
+
+description: Ink
+mid: /m/03yhk
+score: 0.5096694231033325
+topicality: 0.5096694231033325
+

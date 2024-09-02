@@ -1,0 +1,115 @@
+description: Purple
+mid: /m/09ggk
+score: 0.8848859071731567
+topicality: 0.8848859071731567
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.8228768706321716
+topicality: 0.8228768706321716
+
+description: Performing arts
+mid: /m/05qjc
+score: 0.821714460849762
+topicality: 0.821714460849762
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7999877333641052
+topicality: 0.7999877333641052
+
+description: Event
+mid: /m/081pkj
+score: 0.7409137487411499
+topicality: 0.7409137487411499
+
+description: Stage
+mid: /m/04_5hy
+score: 0.7171416878700256
+topicality: 0.7171416878700256
+
+description: Visual effect lighting
+mid: /m/0h8n2vs
+score: 0.7170846462249756
+topicality: 0.7170846462249756
+
+description: Space
+mid: /m/06wqb
+score: 0.710545539855957
+topicality: 0.710545539855957
+
+description: Music venue
+mid: /m/07b2m8
+score: 0.7032220363616943
+topicality: 0.7032220363616943
+
+description: Performing arts center
+mid: /m/07l44b
+score: 0.6959812641143799
+topicality: 0.6959812641143799
+
+description: Theatre
+mid: /m/05npqn
+score: 0.6313465237617493
+topicality: 0.6313465237617493
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.6108303666114807
+topicality: 0.6108303666114807
+
+description: Chair
+mid: /m/01mzpv
+score: 0.6056376099586487
+topicality: 0.6056376099586487
+
+description: Darkness
+mid: /m/01kyr8
+score: 0.5998443365097046
+topicality: 0.5998443365097046
+
+description: Night
+mid: /m/01d74z
+score: 0.5929067134857178
+topicality: 0.5929067134857178
+
+description: Display device
+mid: /m/029zz6
+score: 0.589429497718811
+topicality: 0.589429497718811
+
+description: Performance
+mid: /m/01gq53
+score: 0.569176197052002
+topicality: 0.569176197052002
+
+description: Musical instrument accessory
+mid: /m/0h8npf5
+score: 0.5648423433303833
+topicality: 0.5648423433303833
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.564590334892273
+topicality: 0.564590334892273
+
+description: Audience
+mid: /m/033lpr
+score: 0.5536072850227356
+topicality: 0.5536072850227356
+
+description: Auditorium
+mid: /m/039l3v
+score: 0.5522488951683044
+topicality: 0.5522488951683044
+
+description: Performance art
+mid: /m/01350r
+score: 0.545805811882019
+topicality: 0.545805811882019
+
+description: heater
+mid: /m/03qsdpk
+score: 0.5420547127723694
+topicality: 0.5420547127723694
+

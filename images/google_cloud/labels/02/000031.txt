@@ -1,0 +1,85 @@
+description: Organism
+mid: /m/05nnm
+score: 0.8521965146064758
+topicality: 0.8521965146064758
+
+description: Primate
+mid: /m/05qsj
+score: 0.8420383930206299
+topicality: 0.8420383930206299
+
+description: Fawn
+mid: /m/0276krm
+score: 0.8159761428833008
+topicality: 0.8159761428833008
+
+description: Plant
+mid: /m/05s2s
+score: 0.8071442246437073
+topicality: 0.8071442246437073
+
+description: Tail
+mid: /m/06z_nw
+score: 0.7075933814048767
+topicality: 0.7075933814048767
+
+description: Font
+mid: /m/03gq5hm
+score: 0.6247313022613525
+topicality: 0.6247313022613525
+
+description: Terrestrial animal
+mid: /m/0fbf1m
+score: 0.6174298524856567
+topicality: 0.6174298524856567
+
+description: Fur
+mid: /m/0cnmr
+score: 0.6044535636901855
+topicality: 0.6044535636901855
+
+description: Photo caption
+mid: /m/0b75wg4
+score: 0.5988799929618835
+topicality: 0.5988799929618835
+
+description: Wildlife
+mid: /m/01280g
+score: 0.5897696614265442
+topicality: 0.5897696614265442
+
+description: Rodent
+mid: /m/06hps
+score: 0.5821494460105896
+topicality: 0.5821494460105896
+
+description: Herb
+mid: /m/03gq1
+score: 0.5628031492233276
+topicality: 0.5628031492233276
+
+description: Room
+mid: /m/06ht1
+score: 0.5515018701553345
+topicality: 0.5515018701553345
+
+description: Whiskers
+mid: /m/01l7qd
+score: 0.5413013696670532
+topicality: 0.5413013696670532
+
+description: Output device
+mid: /m/044_87
+score: 0.5409204363822937
+topicality: 0.5409204363822937
+
+description: Paw
+mid: /m/023kp2
+score: 0.5158601403236389
+topicality: 0.5158601403236389
+
+description: Illustration
+mid: /m/01kr8f
+score: 0.5108308792114258
+topicality: 0.5108308792114258
+

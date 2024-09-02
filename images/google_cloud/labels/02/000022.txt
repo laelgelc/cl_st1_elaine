@@ -1,0 +1,95 @@
+description: Product
+mid: /m/01jwgf
+score: 0.9074938893318176
+topicality: 0.9074938893318176
+
+description: Art
+mid: /m/0jjw
+score: 0.8644371628761292
+topicality: 0.8644371628761292
+
+description: Community
+mid: /m/01qls
+score: 0.8110775947570801
+topicality: 0.8110775947570801
+
+description: Collage
+mid: /m/01bsxb
+score: 0.8015169501304626
+topicality: 0.8015169501304626
+
+description: Event
+mid: /m/081pkj
+score: 0.7191751599311829
+topicality: 0.7191751599311829
+
+description: T-shirt
+mid: /m/013s93
+score: 0.7062730193138123
+topicality: 0.7062730193138123
+
+description: Room
+mid: /m/06ht1
+score: 0.700385570526123
+topicality: 0.700385570526123
+
+description: Travel
+mid: /m/014dsx
+score: 0.6401919722557068
+topicality: 0.6401919722557068
+
+description: Suit
+mid: /m/01xyhv
+score: 0.6307570338249207
+topicality: 0.6307570338249207
+
+description: Media
+mid: /m/03qh03g
+score: 0.5920182466506958
+topicality: 0.5920182466506958
+
+description: Hat
+mid: /m/02dl1y
+score: 0.5840046405792236
+topicality: 0.5840046405792236
+
+description: Photomontage
+mid: /m/0b0fq
+score: 0.5796510577201843
+topicality: 0.5796510577201843
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.5730202794075012
+topicality: 0.5730202794075012
+
+description: Collection
+mid: /m/08_4sd
+score: 0.5676449537277222
+topicality: 0.5676449537277222
+
+description: Machine
+mid: /m/0dkw5
+score: 0.5609332919120789
+topicality: 0.5609332919120789
+
+description: Cameras & optics
+mid: /m/0ggjh_8
+score: 0.5526392459869385
+topicality: 0.5526392459869385
+
+description: Advertising
+mid: /m/011s0
+score: 0.5390905737876892
+topicality: 0.5390905737876892
+
+description: Visual arts
+mid: /m/0p9xx
+score: 0.5196133255958557
+topicality: 0.5196133255958557
+
+description: Photography
+mid: /m/05wkw
+score: 0.5169910788536072
+topicality: 0.5169910788536072
+

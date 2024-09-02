@@ -1,0 +1,115 @@
+description: Sleeve
+mid: /m/062581
+score: 0.8724246025085449
+topicality: 0.8724246025085449
+
+description: T-shirt
+mid: /m/013s93
+score: 0.8272128105163574
+topicality: 0.8272128105163574
+
+description: Art
+mid: /m/0jjw
+score: 0.7958982586860657
+topicality: 0.7958982586860657
+
+description: Automotive design
+mid: /m/068mqj
+score: 0.768567681312561
+topicality: 0.768567681312561
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7570252418518066
+topicality: 0.7570252418518066
+
+description: Eyewear
+mid: /m/0j272k5
+score: 0.7276794910430908
+topicality: 0.7276794910430908
+
+description: Event
+mid: /m/081pkj
+score: 0.704474151134491
+topicality: 0.704474151134491
+
+description: Collage
+mid: /m/01bsxb
+score: 0.6861861944198608
+topicality: 0.6861861944198608
+
+description: Bag
+mid: /m/0n5v01m
+score: 0.6777095198631287
+topicality: 0.6777095198631287
+
+description: Fashion accessory
+mid: /m/0463sg
+score: 0.6605592370033264
+topicality: 0.6605592370033264
+
+description: Sunglasses
+mid: /m/017ftj
+score: 0.6552362442016602
+topicality: 0.6552362442016602
+
+description: Advertising
+mid: /m/011s0
+score: 0.6541846394538879
+topicality: 0.6541846394538879
+
+description: Travel
+mid: /m/014dsx
+score: 0.6358696818351746
+topicality: 0.6358696818351746
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.6355962753295898
+topicality: 0.6355962753295898
+
+description: Denim
+mid: /m/0hgr6
+score: 0.6200141906738281
+topicality: 0.6200141906738281
+
+description: Brand
+mid: /m/01cd9
+score: 0.6197357177734375
+topicality: 0.6197357177734375
+
+description: Photomontage
+mid: /m/0b0fq
+score: 0.6166760325431824
+topicality: 0.6166760325431824
+
+description: Visual arts
+mid: /m/0p9xx
+score: 0.5918585658073425
+topicality: 0.5918585658073425
+
+description: Machine
+mid: /m/0dkw5
+score: 0.5871860980987549
+topicality: 0.5871860980987549
+
+description: Font
+mid: /m/03gq5hm
+score: 0.585382342338562
+topicality: 0.585382342338562
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.5774757862091064
+topicality: 0.5774757862091064
+
+description: Luggage and bags
+mid: /m/0hf58v5
+score: 0.5585447549819946
+topicality: 0.5585447549819946
+
+description: Graphic design
+mid: /m/03c31
+score: 0.5373314023017883
+topicality: 0.5373314023017883
+

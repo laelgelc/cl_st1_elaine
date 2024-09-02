@@ -1,0 +1,205 @@
+description: Horse
+mid: /m/03k3r
+score: 0.9552190899848938
+topicality: 0.9552190899848938
+
+description: Cloud
+mid: /m/0csby
+score: 0.9285285472869873
+topicality: 0.9285285472869873
+
+description: Tree
+mid: /m/07j7r
+score: 0.8881329894065857
+topicality: 0.8881329894065857
+
+description: Show jumping
+mid: /m/096f8
+score: 0.8710413575172424
+topicality: 0.8710413575172424
+
+description: Sky
+mid: /m/01bqvp
+score: 0.8636956214904785
+topicality: 0.8636956214904785
+
+description: Equestrian helmet
+mid: /m/0bnwtj
+score: 0.8358185887336731
+topicality: 0.8358185887336731
+
+description: Horse tack
+mid: /m/03pgm
+score: 0.8211153745651245
+topicality: 0.8211153745651245
+
+description: Saddle
+mid: /m/0g2zmg
+score: 0.8160437941551208
+topicality: 0.8160437941551208
+
+description: Working animal
+mid: /m/07_gml
+score: 0.8123111128807068
+topicality: 0.8123111128807068
+
+description: Equestrian sport
+mid: /m/07s053t
+score: 0.7965331673622131
+topicality: 0.7965331673622131
+
+description: English riding
+mid: /m/0h6hb8
+score: 0.7937560677528381
+topicality: 0.7937560677528381
+
+description: Horse supplies
+mid: /m/0h8m5n6
+score: 0.7886302471160889
+topicality: 0.7886302471160889
+
+description: Bridle
+mid: /m/04jkpd
+score: 0.7840911746025085
+topicality: 0.7840911746025085
+
+description: Equestrianism
+mid: /m/0jxw5
+score: 0.7750892639160156
+topicality: 0.7750892639160156
+
+description: Recreation
+mid: /m/06bm2
+score: 0.7619268298149109
+topicality: 0.7619268298149109
+
+description: Eventing
+mid: /m/0d1tm
+score: 0.7561672925949097
+topicality: 0.7561672925949097
+
+description: Rein
+mid: /m/07hgcp
+score: 0.7388991117477417
+topicality: 0.7388991117477417
+
+description: Landscape
+mid: /m/025s3q0
+score: 0.7347443699836731
+topicality: 0.7347443699836731
+
+description: Leisure
+mid: /m/04g3r
+score: 0.7315760254859924
+topicality: 0.7315760254859924
+
+description: Sorrel
+mid: /m/03jd78
+score: 0.7315287590026855
+topicality: 0.7315287590026855
+
+description: Pack animal
+mid: /m/0464z4
+score: 0.7280217409133911
+topicality: 0.7280217409133911
+
+description: Mane
+mid: /m/0fy9p2
+score: 0.7051307559013367
+topicality: 0.7051307559013367
+
+description: Fun
+mid: /m/0ds99lh
+score: 0.7033999562263489
+topicality: 0.7033999562263489
+
+description: Travel
+mid: /m/014dsx
+score: 0.694550633430481
+topicality: 0.694550633430481
+
+description: Jockey
+mid: /m/01pvc5
+score: 0.6868338584899902
+topicality: 0.6868338584899902
+
+description: Mare
+mid: /m/0c23pz
+score: 0.6812804937362671
+topicality: 0.6812804937362671
+
+description: Jumping
+mid: /m/05h2v35
+score: 0.6802877187728882
+topicality: 0.6802877187728882
+
+description: Racing
+mid: /m/0dfbw
+score: 0.6607195734977722
+topicality: 0.6607195734977722
+
+description: Equitation
+mid: /m/03p67l
+score: 0.6574094891548157
+topicality: 0.6574094891548157
+
+description: Animal sports
+mid: /m/0wfrc8w
+score: 0.6538946628570557
+topicality: 0.6538946628570557
+
+description: Stallion
+mid: /m/0c0ygc
+score: 0.6504973769187927
+topicality: 0.6504973769187927
+
+description: Soil
+mid: /m/09dv7
+score: 0.6431399583816528
+topicality: 0.6431399583816528
+
+description: Sports
+mid: /m/06ntj
+score: 0.6334676742553711
+topicality: 0.6334676742553711
+
+description: Individual sports
+mid: /m/08t0vy
+score: 0.619269609451294
+topicality: 0.619269609451294
+
+description: Helmet
+mid: /m/0zvk5
+score: 0.5834810137748718
+topicality: 0.5834810137748718
+
+description: Jumping
+mid: /m/0by3w
+score: 0.5761424899101257
+topicality: 0.5761424899101257
+
+description: Advertising
+mid: /m/011s0
+score: 0.5730674266815186
+topicality: 0.5730674266815186
+
+description: Modern pentathlon
+mid: /m/0dwxr
+score: 0.5704444646835327
+topicality: 0.5704444646835327
+
+description: Competition
+mid: /m/018tl7
+score: 0.5696436166763306
+topicality: 0.5696436166763306
+
+description: Equestrian
+mid: /m/0hpjg1v
+score: 0.5368470549583435
+topicality: 0.5368470549583435
+
+description: Signage
+mid: /m/0bkqqh
+score: 0.5152363181114197
+topicality: 0.5152363181114197
+

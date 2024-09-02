@@ -1,0 +1,150 @@
+description: Interior design
+mid: /m/02rfdq
+score: 0.849840521812439
+topicality: 0.849840521812439
+
+description: Building
+mid: /m/0cgh4
+score: 0.8356735110282898
+topicality: 0.8356735110282898
+
+description: Wood
+mid: /m/083vt
+score: 0.8026307821273804
+topicality: 0.8026307821273804
+
+description: Font
+mid: /m/03gq5hm
+score: 0.7764905691146851
+topicality: 0.7764905691146851
+
+description: Flooring
+mid: /m/01c34b
+score: 0.7757431864738464
+topicality: 0.7757431864738464
+
+description: Shelving
+mid: /m/0h8n982
+score: 0.7704688310623169
+topicality: 0.7704688310623169
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.7478323578834534
+topicality: 0.7478323578834534
+
+description: Countertop
+mid: /m/0b3fp9
+score: 0.7071212530136108
+topicality: 0.7071212530136108
+
+description: Event
+mid: /m/081pkj
+score: 0.6835559010505676
+topicality: 0.6835559010505676
+
+description: Ceiling
+mid: /m/03gfsp
+score: 0.6833073496818542
+topicality: 0.6833073496818542
+
+description: Cabinetry
+mid: /m/01s105
+score: 0.6661850810050964
+topicality: 0.6661850810050964
+
+description: Advertising
+mid: /m/011s0
+score: 0.6616512537002563
+topicality: 0.6616512537002563
+
+description: Brand
+mid: /m/01cd9
+score: 0.6453969478607178
+topicality: 0.6453969478607178
+
+description: Metal
+mid: /m/04t7l
+score: 0.6133653521537781
+topicality: 0.6133653521537781
+
+description: Light fixture
+mid: /m/08jpwt
+score: 0.6077977418899536
+topicality: 0.6077977418899536
+
+description: Peach
+mid: /m/03r18y
+score: 0.6065398454666138
+topicality: 0.6065398454666138
+
+description: Room
+mid: /m/06ht1
+score: 0.6035898327827454
+topicality: 0.6035898327827454
+
+description: Decoration
+mid: /j/76ytyd
+score: 0.602356493473053
+topicality: 0.602356493473053
+
+description: Hardwood
+mid: /m/020g49
+score: 0.5980936884880066
+topicality: 0.5980936884880066
+
+description: Shelf
+mid: /m/0gjbg72
+score: 0.5922917127609253
+topicality: 0.5922917127609253
+
+description: Display case
+mid: /m/05b5b_f
+score: 0.5905648469924927
+topicality: 0.5905648469924927
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.5770636796951294
+topicality: 0.5770636796951294
+
+description: Rectangle
+mid: /m/0j62f
+score: 0.5724244713783264
+topicality: 0.5724244713783264
+
+description: Living room
+mid: /m/03f6tq
+score: 0.5615375638008118
+topicality: 0.5615375638008118
+
+description: Fashion accessory
+mid: /m/0463sg
+score: 0.5339668989181519
+topicality: 0.5339668989181519
+
+description: Retail
+mid: /m/0191_7
+score: 0.5328467488288879
+topicality: 0.5328467488288879
+
+description: Circle
+mid: /m/01vkl
+score: 0.5288605690002441
+topicality: 0.5288605690002441
+
+description: Graphics
+mid: /m/021sdg
+score: 0.5283542275428772
+topicality: 0.5283542275428772
+
+description: Interior design
+mid: /m/0h8nzzj
+score: 0.5283023118972778
+topicality: 0.5283023118972778
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.5006378293037415
+topicality: 0.5006378293037415
+

@@ -1,0 +1,140 @@
+description: Purple
+mid: /m/09ggk
+score: 0.8993133902549744
+topicality: 0.8993133902549744
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.8706749677658081
+topicality: 0.8706749677658081
+
+description: Pink
+mid: /m/01fklc
+score: 0.8318182826042175
+topicality: 0.8318182826042175
+
+description: Performing arts
+mid: /m/05qjc
+score: 0.8087001442909241
+topicality: 0.8087001442909241
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.781684160232544
+topicality: 0.781684160232544
+
+description: Music venue
+mid: /m/07b2m8
+score: 0.777118980884552
+topicality: 0.777118980884552
+
+description: Event
+mid: /m/081pkj
+score: 0.747881293296814
+topicality: 0.747881293296814
+
+description: Stage
+mid: /m/04_5hy
+score: 0.736318051815033
+topicality: 0.736318051815033
+
+description: Performing arts center
+mid: /m/07l44b
+score: 0.7272969484329224
+topicality: 0.7272969484329224
+
+description: Fashion design
+mid: /m/02qqd4n
+score: 0.6878674030303955
+topicality: 0.6878674030303955
+
+description: Performance art
+mid: /m/01350r
+score: 0.6868965029716492
+topicality: 0.6868965029716492
+
+description: Display device
+mid: /m/029zz6
+score: 0.680357038974762
+topicality: 0.680357038974762
+
+description: Theatre
+mid: /m/05npqn
+score: 0.6671915054321289
+topicality: 0.6671915054321289
+
+description: Flooring
+mid: /m/01c34b
+score: 0.6641098260879517
+topicality: 0.6641098260879517
+
+description: Performance
+mid: /m/01gq53
+score: 0.6479448080062866
+topicality: 0.6479448080062866
+
+description: Projection screen
+mid: /m/06ycgh
+score: 0.6294306516647339
+topicality: 0.6294306516647339
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.6279156804084778
+topicality: 0.6279156804084778
+
+description: heater
+mid: /m/03qsdpk
+score: 0.6142334342002869
+topicality: 0.6142334342002869
+
+description: Theater curtain
+mid: /m/0d7fvd
+score: 0.610284149646759
+topicality: 0.610284149646759
+
+description: Suit
+mid: /m/01xyhv
+score: 0.6092960834503174
+topicality: 0.6092960834503174
+
+description: Curtain
+mid: /m/03rszm
+score: 0.5961993336677551
+topicality: 0.5961993336677551
+
+description: Auditorium
+mid: /m/039l3v
+score: 0.5879344344139099
+topicality: 0.5879344344139099
+
+description: Room
+mid: /m/06ht1
+score: 0.5582428574562073
+topicality: 0.5582428574562073
+
+description: Chair
+mid: /m/01mzpv
+score: 0.5388677716255188
+topicality: 0.5388677716255188
+
+description: Visual effect lighting
+mid: /m/0h8n2vs
+score: 0.5261815190315247
+topicality: 0.5261815190315247
+
+description: Projector accessory
+mid: /m/0h8mz6k
+score: 0.5218022465705872
+topicality: 0.5218022465705872
+
+description: Night
+mid: /m/01d74z
+score: 0.5151061415672302
+topicality: 0.5151061415672302
+
+description: Choreography
+mid: /m/018rn4
+score: 0.5038058161735535
+topicality: 0.5038058161735535
+

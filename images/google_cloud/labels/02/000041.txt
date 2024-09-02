@@ -1,0 +1,145 @@
+description: Plant
+mid: /m/05s2s
+score: 0.9482017159461975
+topicality: 0.9482017159461975
+
+description: Tree
+mid: /m/07j7r
+score: 0.8547688126564026
+topicality: 0.8547688126564026
+
+description: Urban design
+mid: /m/0d9wj
+score: 0.8359450101852417
+topicality: 0.8359450101852417
+
+description: Landscape
+mid: /m/025s3q0
+score: 0.7821853160858154
+topicality: 0.7821853160858154
+
+description: Grass
+mid: /m/08t9c_
+score: 0.7818875908851624
+topicality: 0.7818875908851624
+
+description: Car
+mid: /m/0k4j
+score: 0.7714712023735046
+topicality: 0.7714712023735046
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.7709922194480896
+topicality: 0.7709922194480896
+
+description: Motor vehicle
+mid: /m/012f08
+score: 0.74519944190979
+topicality: 0.74519944190979
+
+description: Vehicle
+mid: /m/07yv9
+score: 0.7336506247520447
+topicality: 0.7336506247520447
+
+description: Asphalt
+mid: /m/0hr8
+score: 0.7146291136741638
+topicality: 0.7146291136741638
+
+description: Sky
+mid: /m/01bqvp
+score: 0.657352089881897
+topicality: 0.657352089881897
+
+description: House
+mid: /m/03jm5
+score: 0.6322741508483887
+topicality: 0.6322741508483887
+
+description: Font
+mid: /m/03gq5hm
+score: 0.6303478479385376
+topicality: 0.6303478479385376
+
+description: Landscaping
+mid: /m/025sv9y
+score: 0.6278921961784363
+topicality: 0.6278921961784363
+
+description: Software
+mid: /m/01mf0
+score: 0.6207463145256042
+topicality: 0.6207463145256042
+
+description: Games
+mid: /m/03bt1gh
+score: 0.6103541254997253
+topicality: 0.6103541254997253
+
+description: Room
+mid: /m/06ht1
+score: 0.605187714099884
+topicality: 0.605187714099884
+
+description: Animation
+mid: /m/0hcr
+score: 0.594617486000061
+topicality: 0.594617486000061
+
+description: Soil
+mid: /m/09dv7
+score: 0.5916781425476074
+topicality: 0.5916781425476074
+
+description: Pc game
+mid: /m/04tr8s
+score: 0.5895639657974243
+topicality: 0.5895639657974243
+
+description: Suburb
+mid: /m/0750y
+score: 0.5754680037498474
+topicality: 0.5754680037498474
+
+description: Road
+mid: /m/06gfj
+score: 0.5596655607223511
+topicality: 0.5596655607223511
+
+description: Yard
+mid: /m/049_3v
+score: 0.5561904311180115
+topicality: 0.5561904311180115
+
+description: Video game software
+mid: /m/0987_ns
+score: 0.5442224144935608
+topicality: 0.5442224144935608
+
+description: Strategy video game
+mid: /m/03hf_rm
+score: 0.5321618318557739
+topicality: 0.5321618318557739
+
+description: Leisure
+mid: /m/04g3r
+score: 0.5213514566421509
+topicality: 0.5213514566421509
+
+description: Garden
+mid: /m/0bl0l
+score: 0.5152192115783691
+topicality: 0.5152192115783691
+
+description: Photo caption
+mid: /m/0b75wg4
+score: 0.5120275616645813
+topicality: 0.5120275616645813
+
+description: Family car
+mid: /m/088l6h
+score: 0.504393458366394
+topicality: 0.504393458366394
+

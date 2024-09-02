@@ -1,0 +1,45 @@
+description: Rectangle
+mid: /m/0j62f
+score: 0.8798972368240356
+topicality: 0.8798972368240356
+
+description: Flag
+mid: /m/03120
+score: 0.8719825148582458
+topicality: 0.8719825148582458
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.7336692214012146
+topicality: 0.7336692214012146
+
+description: Pattern
+mid: /m/0hwky
+score: 0.7261323928833008
+topicality: 0.7261323928833008
+
+description: Event
+mid: /m/081pkj
+score: 0.6457432508468628
+topicality: 0.6457432508468628
+
+description: Symmetry
+mid: /m/0f28m
+score: 0.6451941132545471
+topicality: 0.6451941132545471
+
+description: Font
+mid: /m/03gq5hm
+score: 0.6274979114532471
+topicality: 0.6274979114532471
+
+description: Symbol
+mid: /m/09ddf
+score: 0.5958648920059204
+topicality: 0.5958648920059204
+
+description: Carmine
+mid: /m/05t_yt
+score: 0.5012768507003784
+topicality: 0.5012768507003784
+

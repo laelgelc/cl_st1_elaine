@@ -1,0 +1,195 @@
+description: World
+mid: /m/09nm_
+score: 0.9099456071853638
+topicality: 0.9099456071853638
+
+description: Entertainment
+mid: /m/02jjt
+score: 0.8692763447761536
+topicality: 0.8692763447761536
+
+description: Flat panel display
+mid: /m/01qwsw
+score: 0.8485066294670105
+topicality: 0.8485066294670105
+
+description: Gadget
+mid: /m/02mf1n
+score: 0.8422408103942871
+topicality: 0.8422408103942871
+
+description: Projection screen
+mid: /m/06ycgh
+score: 0.8140652179718018
+topicality: 0.8140652179718018
+
+description: Display device
+mid: /m/029zz6
+score: 0.7882670760154724
+topicality: 0.7882670760154724
+
+description: Stage
+mid: /m/04_5hy
+score: 0.774366557598114
+topicality: 0.774366557598114
+
+description: T-shirt
+mid: /m/013s93
+score: 0.7661659121513367
+topicality: 0.7661659121513367
+
+description: Technology
+mid: /m/07c1v
+score: 0.7621493935585022
+topicality: 0.7621493935585022
+
+description: Multimedia
+mid: /m/0541p
+score: 0.7619940638542175
+topicality: 0.7619940638542175
+
+description: Electronic device
+mid: /m/0bs7_0t
+score: 0.7608883380889893
+topicality: 0.7608883380889893
+
+description: Event
+mid: /m/081pkj
+score: 0.743320882320404
+topicality: 0.743320882320404
+
+description: Television set
+mid: /m/0bx_y3w
+score: 0.740835964679718
+topicality: 0.740835964679718
+
+description: Crowd
+mid: /m/03qtwd
+score: 0.7378215193748474
+topicality: 0.7378215193748474
+
+description: Television
+mid: /m/07c52
+score: 0.7359799742698669
+topicality: 0.7359799742698669
+
+description: Projector accessory
+mid: /m/0h8mz6k
+score: 0.7238014340400696
+topicality: 0.7238014340400696
+
+description: Magenta
+mid: /m/0ckc5
+score: 0.6975353360176086
+topicality: 0.6975353360176086
+
+description: Led-backlit lcd display
+mid: /m/05p37dx
+score: 0.680262565612793
+topicality: 0.680262565612793
+
+description: Stage equipment
+mid: /m/0h8mknb
+score: 0.6724672913551331
+topicality: 0.6724672913551331
+
+description: Audience
+mid: /m/033lpr
+score: 0.6713864207267761
+topicality: 0.6713864207267761
+
+description: Suit
+mid: /m/01xyhv
+score: 0.6710382699966431
+topicality: 0.6710382699966431
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.6414746642112732
+topicality: 0.6414746642112732
+
+description: Performance
+mid: /m/01gq53
+score: 0.6380583643913269
+topicality: 0.6380583643913269
+
+description: Broadcasting
+mid: /m/07z226
+score: 0.6250693202018738
+topicality: 0.6250693202018738
+
+description: Television program
+mid: /m/0f2f9
+score: 0.6250309944152832
+topicality: 0.6250309944152832
+
+description: Auditorium
+mid: /m/039l3v
+score: 0.6163451075553894
+topicality: 0.6163451075553894
+
+description: Games
+mid: /m/03bt1gh
+score: 0.6129331588745117
+topicality: 0.6129331588745117
+
+description: Media
+mid: /m/03qh03g
+score: 0.5983319282531738
+topicality: 0.5983319282531738
+
+description: Music venue
+mid: /m/07b2m8
+score: 0.5911511778831482
+topicality: 0.5911511778831482
+
+description: Led display
+mid: /m/04gvls_
+score: 0.5640805959701538
+topicality: 0.5640805959701538
+
+description: Fan
+mid: /m/013x8v
+score: 0.5623827576637268
+topicality: 0.5623827576637268
+
+description: Performing arts center
+mid: /m/07l44b
+score: 0.5606205463409424
+topicality: 0.5606205463409424
+
+description: Electronic signage
+mid: /m/0522cz4
+score: 0.5446763038635254
+topicality: 0.5446763038635254
+
+description: Public event
+mid: /g/116c3n66l
+score: 0.5401554107666016
+topicality: 0.5401554107666016
+
+description: Visual effect lighting
+mid: /m/0h8n2vs
+score: 0.5292755961418152
+topicality: 0.5292755961418152
+
+description: Convention center
+mid: /m/02l7rx
+score: 0.5164849162101746
+topicality: 0.5164849162101746
+
+description: Electronics
+mid: /m/02mrp
+score: 0.5151441693305969
+topicality: 0.5151441693305969
+
+description: Convention
+mid: /m/09cynt
+score: 0.5080482363700867
+topicality: 0.5080482363700867
+
+description: Leisure
+mid: /m/04g3r
+score: 0.5021087527275085
+topicality: 0.5021087527275085
+

@@ -1,0 +1,90 @@
+description: Rectangle
+mid: /m/0j62f
+score: 0.9005956649780273
+topicality: 0.9005956649780273
+
+description: Font
+mid: /m/03gq5hm
+score: 0.8372011780738831
+topicality: 0.8372011780738831
+
+description: Flag
+mid: /m/03120
+score: 0.7640862464904785
+topicality: 0.7640862464904785
+
+description: Pattern
+mid: /m/0hwky
+score: 0.7224083542823792
+topicality: 0.7224083542823792
+
+description: Symbol
+mid: /m/09ddf
+score: 0.6996628642082214
+topicality: 0.6996628642082214
+
+description: Logo
+mid: /m/0dwx7
+score: 0.6985867619514465
+topicality: 0.6985867619514465
+
+description: Graphics
+mid: /m/021sdg
+score: 0.6632341146469116
+topicality: 0.6632341146469116
+
+description: Brand
+mid: /m/01cd9
+score: 0.6526821255683899
+topicality: 0.6526821255683899
+
+description: Recreation
+mid: /m/06bm2
+score: 0.6154225468635559
+topicality: 0.6154225468635559
+
+description: Graphic design
+mid: /m/03c31
+score: 0.6136046051979065
+topicality: 0.6136046051979065
+
+description: Electric blue
+mid: /m/02vwbzz
+score: 0.5933195948600769
+topicality: 0.5933195948600769
+
+description: Circle
+mid: /m/01vkl
+score: 0.583070695400238
+topicality: 0.583070695400238
+
+description: Art
+mid: /m/0jjw
+score: 0.5621108412742615
+topicality: 0.5621108412742615
+
+description: Screenshot
+mid: /m/01zbnw
+score: 0.5512213706970215
+topicality: 0.5512213706970215
+
+description: Games
+mid: /m/03bt1gh
+score: 0.5206689238548279
+topicality: 0.5206689238548279
+
+description: Square
+mid: /m/030jx3
+score: 0.5156018733978271
+topicality: 0.5156018733978271
+
+description: Symmetry
+mid: /m/0f28m
+score: 0.5053181052207947
+topicality: 0.5053181052207947
+
+description: Indoor games and sports
+mid: /m/0b42l9
+score: 0.5029101371765137
+topicality: 0.5029101371765137
+
